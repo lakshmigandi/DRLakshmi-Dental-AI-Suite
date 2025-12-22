@@ -14,12 +14,15 @@ AI Tools for better dental care
 
 5. **Dental Appointment Reminder**  
    [Open Live App](https://react-dental-reminde-6avu.bolt.host)  
-   Patient reminder with countdown.
+   Patient reminder with count down.
    ![Dental Appointment App](<img width="1366" height="695" alt="Dental appointment reminder1" src="https://github.com/user-attachments/assets/4bb74fd4-36c1-4183-955e-d6b5294084ad" />
 
 7. **Caries Detector Capstone**  
    Individual tooth detection — 97.12% accuracy (notebook + screenshots in folder)
    **Built with Bolt.new — Designed by Dr. Lakshmi G., MDS**
+   ![97.12% Accuracy](<img width="1366" height="569" alt="capstone project saccuracy screen shot7 " src="https://github.com/user-attachments/assets/5bfb3d4e-a123-4d94-af6d-d3bc260a8246" />
+   ![Caries-detector-capstone.ipynb](https://colab.research.google.com/drive/189UG9rHi47N_Zq3iQ6Q7LcvurFsTxHgq?usp=sharing)
+
        
 9. **Medicine Reminder App**  
    [Open Live App]( https://react-medicine-remin-k4ft.bolt.host)  
