@@ -10,19 +10,30 @@ AI Tools for better dental care
 3. **Dental Pain Level Estimator**  
    [Open Live App](https://react-dental-pain-le-alu7.bolt.host)  
    Helps triage patient pain level and location.
-4. **Dental Appointment Reminder**  
+   ![Dental Pain APP](<img width="1364" height="690" alt="Dental-pain estimator png1" src="https://github.com/user-attachments/assets/baba637c-2d4e-4823-b879-d6f933dad814" />
+
+5. **Dental Appointment Reminder**  
    [Open Live App](https://react-dental-reminde-6avu.bolt.host)  
    Patient reminder with countdown.
-5. **Caries Detector Capstone**  
-   Individual tooth detection — 97.12% accuracy (notebook + screenshots in folder)
-   **Built with Bolt.new — Designed by Dr. Lakshmi G., MDS**    
-6. **Medicine Reminder App**  
-   [Open Live App]( https://react-medicine-remin-k4ft.bolt.host)  
-   Helps patients take medicines on time.<img width="1366" height="680" alt="caries risk score1" src="https://github.com/user-attachments/assets/8ff77070-12e4-4faa-a083-c2dd17783db3" />
+   ![Dental Appointment App](<img width="1366" height="695" alt="Dental appointment reminder1" src="https://github.com/user-attachments/assets/4bb74fd4-36c1-4183-955e-d6b5294084ad" />
 
-7. **Daily Step Goal Tracker**  
+7. **Caries Detector Capstone**  
+   Individual tooth detection — 97.12% accuracy (notebook + screenshots in folder)
+   **Built with Bolt.new — Designed by Dr. Lakshmi G., MDS**
+       
+9. **Medicine Reminder App**  
+   [Open Live App]( https://react-medicine-remin-k4ft.bolt.host)  
+   Helps patients take medicines on time.
+   ![Medicine Reminder App](<img width="1362" height="695" alt="Medicine Reminderapp" src="https://github.com/user-attachments/assets/5b53bd69-71b3-4b55-8e52-bed5c45b5f93" />
+
+
+11. **Daily Step Goal Tracker**  
    [Open Live App](https://daily-step-goal-trac-xs17.bolt.host)  
    Motivational fitness tracker.
-8.   **7-Day Extraction Care Tracker** 
+ ![Daily Step Tracker APP](<img width="1356" height="682" alt="Daily step counter1" src="https://github.com/user-attachments/assets/7480d72f-236d-47d7-965b-a86c28b49335" />
+
+13.   **7-Day Extraction Care Tracker** 
    Open Live App: https://7-day-extraction-car-l3fu.bolt.host  
    Post-extraction healing monitor
+![7-Day Extraction Care APP](<img width="1364" height="688" alt="7-Day extraction" src="https://github.com/user-attachments/assets/5f13a1ba-35ce-4f9a-8904-76d24620da42" />
+
