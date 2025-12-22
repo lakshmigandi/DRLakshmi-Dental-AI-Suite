@@ -6,7 +6,7 @@ AI Tools for better dental care
    [Open Live App](https://caries-risk-score-ca-6mnj.bolt.host)  
    Screening tool for caries risk based on patient answers.
    ![Caries Risk APP](<img width="1366" height="680" alt="caries risk score1" src="https://github.com/user-attachments/assets/95a665f3-3e34-40b4-ba85-e87810cc50ae" />
-   <img width="1362" height="693" alt="caries riskscore2" src="https://github.com/user-attachments/assets/00c31824-94ea-46a9-9ecd-33e04a70b2c9" />
+   
 
 
 
