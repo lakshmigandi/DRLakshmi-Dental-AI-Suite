@@ -7,10 +7,6 @@ AI Tools for better dental care
    Screening tool for caries risk based on patient answers.
    ![Caries Risk APP](<img width="1366" height="680" alt="caries risk score1" src="https://github.com/user-attachments/assets/95a665f3-3e34-40b4-ba85-e87810cc50ae" />
    
-
-
-
-
 3. **Dental Pain Level Estimator**  
    [Open Live App](https://react-dental-pain-le-alu7.bolt.host)  
    Helps triage patient pain level and location.
