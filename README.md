@@ -1,6 +1,6 @@
 **Portfolio of Dr. Lakshmi G., MDS — Oral Surgeon building AI for dentistry**
-# DRLakshmi-Dental-AI-Suite
-***By DRLakshmi G,MDS-ORAL & Maxillofacial surgeon***
+# DR.Lakshmi-Dental-AI-Suite
+***By DR.Lakshmi G,MDS-ORAL & Maxillofacial surgeon***
 AI Tools for better dental care
 ## Live Apps ##
 1. **Caries Risk Score Calculator**  
