@@ -40,4 +40,11 @@ AI Tools for better dental care
    Open Live App: https://7-day-extraction-car-l3fu.bolt.host  
    Post-extraction healing monitor
 ![7-Day Extraction Care APP](<img width="1364" height="688" alt="7-Day extraction" src="https://github.com/user-attachments/assets/5f13a1ba-35ce-4f9a-8904-76d24620da42" />
+14. **AI Health Assistant project with robotic arm and UI**
+15. open Live App:https://sb1brs6fxyz-e5v0--5173--365214aa.local-credentialless.webcontainer.io/
+16. AI-Powered Personalized Preventive Health Assistant with Robotic Arm
+17. ![AI-Powered Personalized health assistant App](<img width="1366" height="609" alt="AI-Health assistant1" src="https://github.com/user-attachments/assets/5686bb8d-e3e5-4fdc-99bb-371f70202d2b" />
+<img width="1366" height="617" alt="AI-Health assistant2" src="https://github.com/user-attachments/assets/24dff43d-b232-4a96-9373-7abebb815518" />
+
+
 
