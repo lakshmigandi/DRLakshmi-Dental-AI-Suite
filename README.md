@@ -41,7 +41,7 @@ AI Tools for better dental care
    Post-extraction healing monitor
 ![7-Day Extraction Care APP](<img width="1364" height="688" alt="7-Day extraction" src="https://github.com/user-attachments/assets/5f13a1ba-35ce-4f9a-8904-76d24620da42" />
 14. **AI Health Assistant – Personal Preventive Health & Robotics Prototype**
-15. open Live App:https://sb1brs6fxyz-e5v0--5173--365214aa.local-credentialless.webcontainer.io/
+  open Live App:https://sb1brs6fxyz-e5v0--5173--365214aa.local-credentialless.webcontainer.io/
      **Features**:
 - Goal tracking (steps, water, sleep, etc.) with progress bars
 - Motivational quotes and personalized advice
