@@ -59,6 +59,11 @@ AI Tools for better dental care
    Robotic arm for precise implant placement simulation  
    Live Demo: https://dental-implant-robot-eug8.bolt.host
   ![Robotic arm for precise impant placement stimulation app](<<img width="1358" height="622" alt="Dental implant Roboticguide1" src="https://github.com/user-attachments/assets/7764dbc0-0c24-4bdf-be5c-6dabef116373" />
+17.  **Health Risk Prediction System App**
+   Live Demo:https://healthai-risk-predic-qkk9.bolt.host/
+  ![Health Risk Prediction System ](<img width="1366" height="613" alt="Health risk predictor1" src="https://github.com/user-attachments/assets/20f90be4-1ec3-4e74-ac44-504109df0abc" />
+
+  
 
 
 
