@@ -67,14 +67,22 @@ AI Tools for better dental care
   Live Demo:https://stackblitz.com/edit/vitejs-vite-qbtoxsz7?file=src%2FApp.tsx
   ![Caries Analyser buit in Tensorflow.js]<img width="1035" height="625" alt="Caries Classifier 1" src="https://github.com/user-attachments/assets/bf2f218e-2a28-4172-a502-23dd18407658" />
   <img width="1026" height="625" alt="Caries Analyser2" src="https://github.com/user-attachments/assets/5eee84a7-b02b-43da-b18c-c3159ba91b3c" />
-18.**A simple AI-powered health goal tracker (steps, water, sleep) with personalized advice.**
-  **Live Demo**:https://stackblitz.com/edit/vitejs-vite-mkzrcgbf?file=src%2FApp.tsx
-  Features:
-- Enter name + daily goals
-- Get instant AI suggestions
-- No 9-5 job. Created while practicing full-time surgery.
-- <img width="1039" height="562" alt="AI-health goal tracker1" src="https://github.com/user-attachments/assets/776306b1-bc31-4328-89ad-a313c038fa6a" />
-<img width="1041" height="648" alt="AI- heath-goal2" src="https://github.com/user-attachments/assets/6eb42d24-ed46-4a40-a0ee-f3d0ea03860e" />
+19. **A simple AI-powered health goal tracker (steps, water, sleep) with personalized advice.**
+    **Live Demo**:https://stackblitz.com/edit/vitejs-vite-mkzrcgbf?file=src%2FApp.tsx
+     Features:
+    - Enter name + daily goals
+   - Get instant AI suggestions
+   - No 9-5 job. Created while practicing full-time surgery.
+  - <img width="1039" height="562" alt="AI-health goal tracker1" src="https://github.com/user-attachments/assets/776306b1-bc31-4328-89ad-a313c038fa6a" />
+   <img width="1041" height="648" alt="AI- heath-goal2" src="https://github.com/user-attachments/assets/6eb42d24-ed46-4a40-a0ee-f3d0ea03860e" />
+20. **Dental-Prescription-PostOp-Generator**
+    **Live demo**https://stackblitz.com/edit/vitejs-vite-kui3ntnk?file=src%2FApp.tsx
+     Features:A professional clinical documentation tool using React & TypeScript. Automates post-operative care and prescription protocols for dental procedures.
+    <img width="1039" height="583" alt="Dental prescription gen1" src="https://github.com/user-attachments/assets/e47ff6a8-2789-4cae-b949-1d0bcd0f4d9b" />
+    <img width="931" height="637" alt="Dental prescription gen2" src="https://github.com/user-attachments/assets/e68eb701-a2d9-4177-9748-a99d67a5edd3" />
+
+ 
+  
 
 
 - 
