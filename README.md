@@ -54,7 +54,8 @@ AI Tools for better dental care
    Gentle robotic arm for post-operative patient monitoring  
    Live Demo: https://post-op-robotic-care-j55c.bolt.host
   ![Post-Op robotic care assistant app](<img width="1366" height="619" alt="Post-operative Robotic Care1" src="https://github.com/user-attachments/assets/f161a5cc-1872-409d-9a7d-ee0d05918cbf" />
-  <img width="1366" height="620" alt="Post-op Robotic arm2" src="https://github.com/user-attachments/assets/63573e82-22ff-4512-9f51-143f055ea3db" />
+  <img width="1366" height="620" alt="Post-op Robotic arm2" src="https://github.com/user-attachments/assets/63573e82-22ff-4512-9f51-143f055ea3db" /><img width="1039" height="562" alt="AI-health goal tracker1" src="https://github.com/user-attachments/assets/c775a7d8-d930-4657-8bac-93b15050d68c" />
+
 16.  **Dental Implant Robotic Guide**  
    Robotic arm for precise implant placement simulation  
    Live Demo: https://dental-implant-robot-eug8.bolt.host
@@ -67,7 +68,17 @@ AI Tools for better dental care
   Live Demo:https://stackblitz.com/edit/vitejs-vite-qbtoxsz7?file=src%2FApp.tsx
   ![Caries Analyser buit in Tensorflow.js]<img width="1035" height="625" alt="Caries Classifier 1" src="https://github.com/user-attachments/assets/bf2f218e-2a28-4172-a502-23dd18407658" />
   <img width="1026" height="625" alt="Caries Analyser2" src="https://github.com/user-attachments/assets/5eee84a7-b02b-43da-b18c-c3159ba91b3c" />
+18.**A simple AI-powered health goal tracker (steps, water, sleep) with personalized advice.**
+  **Live Demo**:https://stackblitz.com/edit/vitejs-vite-mkzrcgbf?file=src%2FApp.tsx
+  Features:
+- Enter name + daily goals
+- Get instant AI suggestions
+- No 9-5 job. Created while practicing full-time surgery.
+- <img width="1039" height="562" alt="AI-health goal tracker1" src="https://github.com/user-attachments/assets/776306b1-bc31-4328-89ad-a313c038fa6a" />
+<img width="1041" height="648" alt="AI- heath-goal2" src="https://github.com/user-attachments/assets/6eb42d24-ed46-4a40-a0ee-f3d0ea03860e" />
 
+
+- 
 
 
   
