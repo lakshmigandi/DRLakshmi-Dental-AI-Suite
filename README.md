@@ -54,9 +54,8 @@ AI Tools for better dental care
    Gentle robotic arm for post-operative patient monitoring  
    Live Demo: https://post-op-robotic-care-j55c.bolt.host
   ![Post-Op robotic care assistant app](<img width="1366" height="619" alt="Post-operative Robotic Care1" src="https://github.com/user-attachments/assets/f161a5cc-1872-409d-9a7d-ee0d05918cbf" />
-  <img width="1366" height="620" alt="Post-op Robotic arm2" src="https://github.com/user-attachments/assets/63573e82-22ff-4512-9f51-143f055ea3db" /><img width="1039" height="562" alt="AI-health goal tracker1" src="https://github.com/user-attachments/assets/c775a7d8-d930-4657-8bac-93b15050d68c" />
-
-16.  **Dental Implant Robotic Guide**  
+  <img width="1366" height="620" alt="Post-op Robotic arm2" src="https://github.com/user-attachments/assets/63573e82-22ff-4512-9f51-143f055ea3db" />
+16.**Robotic implant placementb stimulation**  
    Robotic arm for precise implant placement simulation  
    Live Demo: https://dental-implant-robot-eug8.bolt.host
   ![Robotic arm for precise impant placement stimulation app](<<img width="1358" height="622" alt="Dental implant Roboticguide1" src="https://github.com/user-attachments/assets/7764dbc0-0c24-4bdf-be5c-6dabef116373" />
