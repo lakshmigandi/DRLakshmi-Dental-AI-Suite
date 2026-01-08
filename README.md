@@ -80,6 +80,14 @@ AI Tools for better dental care
      Features:A professional clinical documentation tool using React & TypeScript. Automates post-operative care and prescription protocols for dental procedures.
     <img width="1039" height="583" alt="Dental prescription gen1" src="https://github.com/user-attachments/assets/e47ff6a8-2789-4cae-b949-1d0bcd0f4d9b" />
     <img width="931" height="637" alt="Dental prescription gen2" src="https://github.com/user-attachments/assets/e68eb701-a2d9-4177-9748-a99d67a5edd3" />
+21. ** Medical Triage & Vital Signs Analyzer**
+    **Live demo**https://stackblitz.com/edit/vitejs-vite-agipstkj?file=src%2FApp.tsx
+      Features: This AI-driven triage tool is designed for rapid clinical assessment of patient vital signs. It analyzes Systolic Blood Pressure, Body Temperature, and Heart Rate in real-time to categorize patients into Stable,
+         Observation Required, or Urgent Risk levels. This cross-disciplinary tool demonstrates the integration of general medicine  to provide a holistic patient care approach.
+    <img width="1141" height="613" alt="Medical Triage2" src="https://github.com/user-attachments/assets/2187253e-f8bc-4bd4-8858-2bc5e4b2c308" />
+    <img width="1349" height="615" alt="Medical Triage 1" src="https://github.com/user-attachments/assets/f5346906-e0b5-4fff-a6c9-564944a81f7b" />
+
+    
 
  
   
