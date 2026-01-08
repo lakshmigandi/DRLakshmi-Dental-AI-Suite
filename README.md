@@ -95,6 +95,13 @@ AI Tools for better dental care
         <img width="1349" height="615" alt="Medical Triage 1" src="https://github.com/user-attachments/assets/f5346906-e0b5-4fff-a6c9-564944a81f7b" />
         <img width="1141" height="613" alt="Medical Triage2" src="https://github.com/user-attachments/assets/d3a15815-171b-4480-8b04-828cfcac6ddd" />
 
+  22.  ** Mandibular Fracture Analyzer**
+       **Live Demo** https://mandibular-fracture-t2l6.bolt.host/
+       ![Mandibular Fracture Detector]<img width="1244" height="621" alt="Mandibular frac detection1" src="https://github.com/user-attachments/assets/0991e27b-17c8-4462-aebd-418f4b973e79" />
+       <img width="1218" height="590" alt="Mandibular frac detection2" src="https://github.com/user-attachments/assets/507f2868-e181-41d8-86ed-ee1fb971e04f" />
+
+     
+
 
     
 
