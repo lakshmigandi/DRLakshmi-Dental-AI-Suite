@@ -40,6 +40,7 @@ AI Tools for better dental care
    Open Live App: https://7-day-extraction-car-l3fu.bolt.host  
    Post-extraction healing monitor
 ![7-Day Extraction Care APP](<img width="1364" height="688" alt="7-Day extraction" src="https://github.com/user-attachments/assets/5f13a1ba-35ce-4f9a-8904-76d24620da42" />
+
 14. **AI Health Assistant – Personal Preventive Health & Robotics Prototype**
   open Live App:https://stackblitz.com/edit/sb1-brs6fxyz?file=README.md
      **Features**:
@@ -50,23 +51,28 @@ AI Tools for better dental care
  **Tech Stack**: React, Three.js (for 3D arm), CSS
  ![AI-Powered Personalized health assistant App](<img width="1366" height="609" alt="AI-Health assistant1" src="https://github.com/user-attachments/assets/5686bb8d-e3e5-4fdc-99bb-371f70202d2b" />
 <img width="1366" height="617" alt="AI-Health assistant2" src="https://github.com/user-attachments/assets/24dff43d-b232-4a96-9373-7abebb815518" />
+
 15. **Post-Op Robotic Care Assistant**  
    Gentle robotic arm for post-operative patient monitoring  
    Live Demo: https://post-op-robotic-care-j55c.bolt.host
   ![Post-Op robotic care assistant app](<img width="1366" height="619" alt="Post-operative Robotic Care1" src="https://github.com/user-attachments/assets/f161a5cc-1872-409d-9a7d-ee0d05918cbf" />
   <img width="1366" height="620" alt="Post-op Robotic arm2" src="https://github.com/user-attachments/assets/63573e82-22ff-4512-9f51-143f055ea3db" />
+  
 16.**Robotic implant placementb stimulation**  
    Robotic arm for precise implant placement simulation  
    Live Demo: https://dental-implant-robot-eug8.bolt.host
   ![Robotic arm for precise impant placement stimulation app](<<img width="1358" height="622" alt="Dental implant Roboticguide1" src="https://github.com/user-attachments/assets/7764dbc0-0c24-4bdf-be5c-6dabef116373" />
+  
 17.  **Health Risk Prediction System App**
    Live Demo:https://healthai-risk-predic-qkk9.bolt.host/
   ![Health Risk Prediction System ](<img width="1366" height="613" alt="Health risk predictor1" src="https://github.com/user-attachments/assets/20f90be4-1ec3-4e74-ac44-504109df0abc" />
+  
 18.  **Caries Analyser built in TensorFlow.js**
    Features:Developed a web-based diagnostic assistant that utilizes a MobileNet neural network to analyze dental radiographs. This tool identifies pixel-density gradients to highlight potential carious lesions and enamel variations,    providing real-time screening directly in the browser.
   Live Demo:https://stackblitz.com/edit/vitejs-vite-qbtoxsz7?file=src%2FApp.tsx
   ![Caries Analyser buit in Tensorflow.js]<img width="1035" height="625" alt="Caries Classifier 1" src="https://github.com/user-attachments/assets/bf2f218e-2a28-4172-a502-23dd18407658" />
   <img width="1026" height="625" alt="Caries Analyser2" src="https://github.com/user-attachments/assets/5eee84a7-b02b-43da-b18c-c3159ba91b3c" />
+  
 19. **A simple AI-powered health goal tracker (steps, water, sleep) with personalized advice.**
     **Live Demo**:https://stackblitz.com/edit/vitejs-vite-mkzrcgbf?file=src%2FApp.tsx
      Features:
@@ -75,11 +81,13 @@ AI Tools for better dental care
    - No 9-5 job. Created while practicing full-time surgery.
   - <img width="1039" height="562" alt="AI-health goal tracker1" src="https://github.com/user-attachments/assets/776306b1-bc31-4328-89ad-a313c038fa6a" />
    <img width="1041" height="648" alt="AI- heath-goal2" src="https://github.com/user-attachments/assets/6eb42d24-ed46-4a40-a0ee-f3d0ea03860e" />
+   
 20. **Dental-Prescription-PostOp-Generator**
     **Live demo**https://stackblitz.com/edit/vitejs-vite-kui3ntnk?file=src%2FApp.tsx
      Features:A professional clinical documentation tool using React & TypeScript. Automates post-operative care and prescription protocols for dental procedures.
     <img width="1039" height="583" alt="Dental prescription gen1" src="https://github.com/user-attachments/assets/e47ff6a8-2789-4cae-b949-1d0bcd0f4d9b" />
     <img width="931" height="637" alt="Dental prescription gen2" src="https://github.com/user-attachments/assets/e68eb701-a2d9-4177-9748-a99d67a5edd3" />
+    
  21. ** Medical Triage & Vital Signs Analyzer**
     **Live demo**https://stackblitz.com/edit/vitejs-vite-agipstkj?file=src%2FApp.tsx
       Features: This AI-driven triage tool is designed for rapid clinical assessment of patient vital signs. It analyzes Systolic Blood Pressure, Body Temperature, and Heart Rate in real-time to categorize patients into Stable,
