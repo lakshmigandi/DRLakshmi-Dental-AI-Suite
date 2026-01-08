@@ -84,8 +84,9 @@ AI Tools for better dental care
     **Live demo**https://stackblitz.com/edit/vitejs-vite-agipstkj?file=src%2FApp.tsx
       Features: This AI-driven triage tool is designed for rapid clinical assessment of patient vital signs. It analyzes Systolic Blood Pressure, Body Temperature, and Heart Rate in real-time to categorize patients into Stable,
          Observation Required, or Urgent Risk levels. This cross-disciplinary tool demonstrates the integration of general medicine  to provide a holistic patient care approach.
-    <img width="1141" height="613" alt="Medical Triage2" src="https://github.com/user-attachments/assets/2187253e-f8bc-4bd4-8858-2bc5e4b2c308" />
-    <img width="1349" height="615" alt="Medical Triage 1" src="https://github.com/user-attachments/assets/f5346906-e0b5-4fff-a6c9-564944a81f7b" />
+        <img width="1349" height="615" alt="Medical Triage 1" src="https://github.com/user-attachments/assets/f5346906-e0b5-4fff-a6c9-564944a81f7b" />
+        <img width="1141" height="613" alt="Medical Triage2" src="https://github.com/user-attachments/assets/d3a15815-171b-4480-8b04-828cfcac6ddd" />
+
 
     
 
