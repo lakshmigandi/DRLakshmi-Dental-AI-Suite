@@ -63,7 +63,7 @@ AI Tools for better dental care
    Live Demo:https://healthai-risk-predic-qkk9.bolt.host/
   ![Health Risk Prediction System ](<img width="1366" height="613" alt="Health risk predictor1" src="https://github.com/user-attachments/assets/20f90be4-1ec3-4e74-ac44-504109df0abc" />
 18.  **Caries Analyser built in TensorFlow.js**
-   Features:Developed a web-based diagnostic assistant that utilizes a MobileNet neural network to analyze dental radiographs. This tool identifies pixel-density gradients to highlight potential carious lesions and enamel variations, providing real-time screening directly in the browser.
+   Features:Developed a web-based diagnostic assistant that utilizes a MobileNet neural network to analyze dental radiographs. This tool identifies pixel-density gradients to highlight potential carious lesions and enamel variations,    providing real-time screening directly in the browser.
   Live Demo:https://stackblitz.com/edit/vitejs-vite-qbtoxsz7?file=src%2FApp.tsx
   ![Caries Analyser buit in Tensorflow.js]<img width="1035" height="625" alt="Caries Classifier 1" src="https://github.com/user-attachments/assets/bf2f218e-2a28-4172-a502-23dd18407658" />
   <img width="1026" height="625" alt="Caries Analyser2" src="https://github.com/user-attachments/assets/5eee84a7-b02b-43da-b18c-c3159ba91b3c" />
