@@ -68,18 +68,16 @@ AI Apps for better dental care
   ![Health Risk Prediction System ](<img width="1366" height="613" alt="Health risk predictor1" src="https://github.com/user-attachments/assets/20f90be4-1ec3-4e74-ac44-504109df0abc" />
   
 18.  **Caries Analyser built in TensorFlow.js**
-   Features:Developed a web-based diagnostic assistant that utilizes a MobileNet neural network to analyze dental radiographs. This tool identifies pixel-density gradients to highlight potential carious lesions and enamel variations,    providing real-time screening directly in the browser.
+   Features:Developed a web-based diagnostic assistant that utilizes a MobileNet neural network to analyze dental radiographs. This tool identifies pixel-density gradients to highlight potential carious lesions and enamel variations,    
   Live Demo:https://stackblitz.com/edit/vitejs-vite-qbtoxsz7?file=src%2FApp.tsx
   ![Caries Analyser buit in Tensorflow.js]<img width="1035" height="625" alt="Caries Classifier 1" src="https://github.com/user-attachments/assets/bf2f218e-2a28-4172-a502-23dd18407658" />
   <img width="1026" height="625" alt="Caries Analyser2" src="https://github.com/user-attachments/assets/5eee84a7-b02b-43da-b18c-c3159ba91b3c" />
   
 19. **A simple AI-powered health goal tracker (steps, water, sleep) with personalized advice.**
     **Live Demo**:https://stackblitz.com/edit/vitejs-vite-mkzrcgbf?file=src%2FApp.tsx
-     Features:
-    - Enter name + daily goals
-   - Get instant AI suggestions
-   - No 9-5 job. Created while practicing full-time surgery.
-  - <img width="1039" height="562" alt="AI-health goal tracker1" src="https://github.com/user-attachments/assets/776306b1-bc31-4328-89ad-a313c038fa6a" />
+     Features:Enter name+ daily goals
+    - Get instant AI suggestions
+    - <img width="1039" height="562" alt="AI-health goal tracker1" src="https://github.com/user-attachments/assets/776306b1-bc31-4328-89ad-a313c038fa6a" />
    <img width="1041" height="648" alt="AI- heath-goal2" src="https://github.com/user-attachments/assets/6eb42d24-ed46-4a40-a0ee-f3d0ea03860e" />
    
 20. **Dental-Prescription-PostOp-Generator**
@@ -98,6 +96,13 @@ AI Apps for better dental care
        **Live Demo** https://mandibular-fracture-t2l6.bolt.host/
        ![Mandibular Fracture Detector]<img width="1244" height="621" alt="Mandibular frac detection1" src="https://github.com/user-attachments/assets/0991e27b-17c8-4462-aebd-418f4b973e79" />
        <img width="1218" height="590" alt="Mandibular frac detection2" src="https://github.com/user-attachments/assets/507f2868-e181-41d8-86ed-ee1fb971e04f" />
+
+ 23.   ***AI Robotic Vital Signs Assistant***
+        **Live Demo** https://stackblitz.com/edit/vitejs-vite-hebq3xyh?file=README.md
+        ![AI ROBOTIC VITAL SIGNS ASSISTANT]<img width="649" height="615" alt="AI-Robotic health assist1" src="https://github.com/user-attachments/assets/5db46fe9-395e-43f0-8191-369ec4872e0c" />
+        <img width="939" height="607" alt="AI-Robotic health assist2" src="https://github.com/user-attachments/assets/e98b5afb-8e54-4dbf-837f-878ff42a7231" />
+
+     
 
      
 
