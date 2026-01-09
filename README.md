@@ -102,6 +102,11 @@ AI Apps for better dental care
         ![AI ROBOTIC VITAL SIGNS ASSISTANT]<img width="649" height="615" alt="AI-Robotic health assist1" src="https://github.com/user-attachments/assets/5db46fe9-395e-43f0-8191-369ec4872e0c" />
         <img width="939" height="607" alt="AI-Robotic health assist2" src="https://github.com/user-attachments/assets/e98b5afb-8e54-4dbf-837f-878ff42a7231" />
 
+ 24.   **PREGNANCY & ORAL HEALTH TRACKER**
+        **Live Demo** https://stackblitz.com/edit/vitejs-vite-rw5oqdhl?file=src%2FApp.tsx
+        ![Pregnancy & Oral health tracker]<img width="1170" height="613" alt="Pregnancy oral health tracker" src="https://github.com/user-attachments/assets/47eb2e0e-72d5-4337-9c38-d1830a5b11cd" />
+         
+
      
 
      
