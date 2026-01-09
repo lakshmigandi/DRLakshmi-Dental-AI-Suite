@@ -111,6 +111,13 @@ AI Apps for better dental care
        ![Paediatric Dosage AI Caluclator]<img width="1153" height="588" alt="Paediatric dose cal2" src="https://github.com/user-attachments/assets/7573b8de-db4b-4c63-bdc0-64812e915541" />
        <img width="1153" height="588" alt="Paediatric dose cal2" src="https://github.com/user-attachments/assets/b89d361d-3128-4add-8419-002d811a0ba0" />
 
+ 26. ** Sleep Apnea (OSA) Airway Screener**
+     **Live Demo** https://stackblitz.com/edit/vitejs-vite-whcy1yfm?file=src%2FApp.tsx
+     ![Sleep Apnea (OSA) Airway Screener]| React/Clinical Logic|<img width="844" height="607" alt="Sleep Apnea 1" src="https://github.com/user-attachments/assets/fc60d5e5-ffa9-4c5e-b16a-19cf3b15f13c" />
+     <img width="853" height="612" alt="Sleep Apnea2" src="https://github.com/user-attachments/assets/51c659de-5ace-41d3-80d3-be4e6bb8f6f4" />
+
+    
+
         
          
 
