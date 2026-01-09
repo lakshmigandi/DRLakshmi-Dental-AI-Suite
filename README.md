@@ -105,6 +105,13 @@ AI Apps for better dental care
  24.   **PREGNANCY & ORAL HEALTH TRACKER**
         **Live Demo** https://stackblitz.com/edit/vitejs-vite-rw5oqdhl?file=src%2FApp.tsx
         ![Pregnancy & Oral health tracker]<img width="1170" height="613" alt="Pregnancy oral health tracker" src="https://github.com/user-attachments/assets/47eb2e0e-72d5-4337-9c38-d1830a5b11cd" />
+
+ 25.   **PEDIATRIC DOSAGE AI CALCULATOR**
+       **Live Demo** https://stackblitz.com/edit/vitejs-vite-r69re5fs?file=src%2FApp.tsx
+       ![Paediatric Dosage AI Caluclator]<img width="1153" height="588" alt="Paediatric dose cal2" src="https://github.com/user-attachments/assets/7573b8de-db4b-4c63-bdc0-64812e915541" />
+       <img width="1153" height="588" alt="Paediatric dose cal2" src="https://github.com/user-attachments/assets/b89d361d-3128-4add-8419-002d811a0ba0" />
+
+        
          
 
      
