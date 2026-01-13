@@ -116,6 +116,13 @@ AI Apps for better dental care
      ![Sleep Apnea (OSA) Airway Screener]| React/Clinical Logic|<img width="844" height="607" alt="Sleep Apnea 1" src="https://github.com/user-attachments/assets/fc60d5e5-ffa9-4c5e-b16a-19cf3b15f13c" />
      <img width="853" height="612" alt="Sleep Apnea2" src="https://github.com/user-attachments/assets/51c659de-5ace-41d3-80d3-be4e6bb8f6f4" />
 
+27.  ** AI Robotic Jaw Alignment Simulator**
+     **Live Demo** https://stackblitz.com/edit/vitejs-vite-qesyferf?file=src%2FApp.tsx
+     ![AI Robotic Jaw Alignment Stimulator**]<img width="702" height="628" alt="AI robotic stimulator1" src="https://github.com/user-attachments/assets/6861e67b-3735-453f-aa91-9edfc73f94ef" />
+     <img width="1137" height="609" alt="AI robotic stimulator2" src="https://github.com/user-attachments/assets/24aed0d0-5588-4de6-be1a-37f7fd60901c" />
+
+      
+
     
 
         
