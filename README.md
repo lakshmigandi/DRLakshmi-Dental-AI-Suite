@@ -130,6 +130,12 @@ AI Apps for better dental care
 
 30.   ** Inclusion Guard** **Purpose:** Ensures team communication is respectful and inclusive.**Logic:** Flags exclusionary terms like "Guys" or "Manpower" and suggests modern alternatives.
       ** Live Demo** https://stackblitz.com/edit/vitejs-vite-bx3fmmkx?file=README.md <img width="523" height="622" alt="Inclusion Guard1" src="https://github.com/user-attachments/assets/25d3a319-efd6-4f03-936e-f9893874723c" />
+
+31.   **AI Robotic Breast Self-Exam Guide** – Women's health simulation with gentle robotic guidance
+      **Live Demo**https://stackblitz.com/edit/vitejs-vite-yvenatkm?file=src%2FApp.tsx<img width="664" height="618" alt="AI Robotic Breast examiner1" src="https://github.com/user-attachments/assets/0a55d7b4-486d-48cc-8eb7-4ab6f1570f48" /><img width="915" height="625" alt="AI Robotic Breast examiner2" src="https://github.com/user-attachments/assets/6b206b4d-45ed-441e-b2d9-79e486f892ce" />
+
+
+       
          
     
 
