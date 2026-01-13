@@ -123,7 +123,15 @@ AI Apps for better dental care
 
 28.   ** SafeSpeak AI Empowered Voice Analyzer **
       **Live Demo** https://stackblitz.com/edit/stackblitz-starters-c6htvsms?file=index.html
-      ![SafeSpeak AI Empowered Voice Analyzer**] Features:An AI-powered communication analyzer for women's empowerment.<img width="786" height="567" alt="SafeSpeak AI 1" src="https://github.com/user-attachments/assets/a19d2b9c-5284-40ff-b393-e0aaa4805319" />
+      ![SafeSpeak AI Empowered Voice Analyzer**] Features: An AI-powered communication analyzer for women's empowerment.<img width="786" height="567" alt="SafeSpeak AI 1" src="https://github.com/user-attachments/assets/a19d2b9c-5284-40ff- b393-e0aaa4805319" />
+
+29.    ** ⚖️ Gender Bias Detector**🌟 Vision:This AI tool promotes diversity and inclusion in professional environments. It scans text for "masculine-coded" language that might discourage women from applying for leadership roles.
+       **Live Demo** https://stackblitz.com/edit/vitejs-vite-gejtx6nn?file=src%2FApp.tsx <img width="521" height="613" alt="Bias Scanner" src="https://github.com/user-attachments/assets/e6f06021-e5f8-4348-a238-2eadbcb38083" />
+
+30.   ** Inclusion Guard** **Purpose:** Ensures team communication is respectful and inclusive.**Logic:** Flags exclusionary terms like "Guys" or "Manpower" and suggests modern alternatives.
+      ** Live Demo** https://stackblitz.com/edit/vitejs-vite-bx3fmmkx?file=README.md <img width="523" height="622" alt="Inclusion Guard1" src="https://github.com/user-attachments/assets/25d3a319-efd6-4f03-936e-f9893874723c" />
+         
+    
 
        
 
