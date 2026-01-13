@@ -121,6 +121,12 @@ AI Apps for better dental care
      ![AI Robotic Jaw Alignment Stimulator**]<img width="702" height="628" alt="AI robotic stimulator1" src="https://github.com/user-attachments/assets/6861e67b-3735-453f-aa91-9edfc73f94ef" />
      <img width="1137" height="609" alt="AI robotic stimulator2" src="https://github.com/user-attachments/assets/24aed0d0-5588-4de6-be1a-37f7fd60901c" />
 
+28.   ** SafeSpeak AI Empowered Voice Analyzer **
+      **Live Demo** https://stackblitz.com/edit/stackblitz-starters-c6htvsms?file=index.html
+      ![SafeSpeak AI Empowered Voice Analyzer**] Features:An AI-powered communication analyzer for women's empowerment.<img width="786" height="567" alt="SafeSpeak AI 1" src="https://github.com/user-attachments/assets/a19d2b9c-5284-40ff-b393-e0aaa4805319" />
+
+       
+
       
 
     
