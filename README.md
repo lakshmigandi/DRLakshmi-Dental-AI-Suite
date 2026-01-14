@@ -151,6 +151,13 @@ AI Apps for better dental care
     **Live Demo**https://stackblitz.com/edit/vitejs-vite-zkuyhvxh?file=src%2FApp.tsx<img width="807" height="621" alt="Precision analytics2" src="https://github.com/user-attachments/assets/487b434e-3ad8-481f-994b-e1c1a5bc060c" />
 <img width="805" height="611" alt="Precision Decision1" src="https://github.com/user-attachments/assets/3d9fa222-4914-42ab-8dc9-57d2af9936ae" />
 
+36.  **CLINICAL ANALYTICS & DIAGNOSTIC INTERFACE**Advanced Health Decision Logic Suite
+     **Live Demo** https://stackblitz.com/edit/vitejs-vite-m9tcz5iz?file=src%2FApp.tsx<img width="942" height="613" alt="Clinical analytics2" src="https://github.com/user-attachments/assets/6e0d6f24-cbfa-4f81-bf67-dd2212c0d189" />
+<img width="942" height="582" alt="CLinical analytics1" src="https://github.com/user-attachments/assets/54c1c715-a096-4175-b9f5-29ffeb387140" />
+ 
+
+
+
 
 
 
