@@ -135,6 +135,11 @@ AI Apps for better dental care
 31.   **AI Robotic Breast Self-Exam Guide** – Women's health simulation with gentle robotic guidance
       **Live Demo**https://stackblitz.com/edit/vitejs-vite-yvenatkm?file=src%2FApp.tsx<img width="664" height="618" alt="AI Robotic Breast examiner1" src="https://github.com/user-attachments/assets/0a55d7b4-486d-48cc-8eb7-4ab6f1570f48" /><img width="915" height="625" alt="AI Robotic Breast examiner2" src="https://github.com/user-attachments/assets/6b206b4d-45ed-441e-b2d9-79e486f892ce" />
 
+32.  **AI Robotic PCOS Cycle & Symptom Tracker**-Empowering women with PCOS — cycle phase detection, symptom input (weight gain, acne, mood swings, fatigue, excess hair), personalized AI advice (diet, exercise, doctor consultation) with gentle 3D robotic arm simulation.
+      ** Live Demo**https://stackblitz.com/edit/vitejs-vite-fuw97svn?file=src%2FApp.tsx  <img width="951" height="609" alt="AI Robotic PCOS2" src="https://github.com/user-attachments/assets/84b33276-c8e3-4663-ab39-26bdbbba70f1" />
+<img width="686" height="602" alt="AI Robotic PCOS 1" src="https://github.com/user-attachments/assets/0355c064-bc4a-4505-a563-e2152e8b1a52" />
+    
+
 
        
          
