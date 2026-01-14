@@ -138,6 +138,12 @@ AI Apps for better dental care
 32.  **AI Robotic PCOS Cycle & Symptom Tracker**-Empowering women with PCOS — cycle phase detection, symptom input (weight gain, acne, mood swings, fatigue, excess hair), personalized AI advice (diet, exercise, doctor consultation) with gentle 3D robotic arm simulation.
       ** Live Demo**https://stackblitz.com/edit/vitejs-vite-fuw97svn?file=src%2FApp.tsx  <img width="951" height="609" alt="AI Robotic PCOS2" src="https://github.com/user-attachments/assets/84b33276-c8e3-4663-ab39-26bdbbba70f1" />
 <img width="686" height="602" alt="AI Robotic PCOS 1" src="https://github.com/user-attachments/assets/0355c064-bc4a-4505-a563-e2152e8b1a52" />
+
+33.  **DENTAL HEALTH AI ANALYTICS Precision Clinical Decision Support System**
+     ** Live Demo** https://stackblitz.com/edit/vitejs-vite-1u8rz7s3?file=src%2FApp.tsx<img width="774" height="592" alt="Dental health analytics2" src="https://github.com/user-attachments/assets/becd45e5-973e-4708-b1d7-a8252dc1b554" />
+<img width="803" height="613" alt="Dental health analytics1" src="https://github.com/user-attachments/assets/ffc645f5-47fe-410f-b60a-fbc9826941a2" />
+
+     
     
 
 
