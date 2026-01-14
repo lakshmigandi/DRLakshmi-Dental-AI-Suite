@@ -147,6 +147,11 @@ AI Apps for better dental care
    **Live Demo**https://stackblitz.com/edit/vitejs-vite-enzs193c?file=src%2FApp.tsx <img width="928" height="573" alt="Geriatic 2" src="https://github.com/user-attachments/assets/fb6d3320-0144-4817-8281-762976d3a050" />
 <img width="832" height="607" alt="Geriatic dental1" src="https://github.com/user-attachments/assets/349c70cc-9804-4a00-93c3-3f37c4aed976" />
 
+35. **PRECISION DECISION SUPPORT SYSTEM**Health & Dental Analytics Suite
+    **Live Demo**https://stackblitz.com/edit/vitejs-vite-zkuyhvxh?file=src%2FApp.tsx<img width="807" height="621" alt="Precision analytics2" src="https://github.com/user-attachments/assets/487b434e-3ad8-481f-994b-e1c1a5bc060c" />
+<img width="805" height="611" alt="Precision Decision1" src="https://github.com/user-attachments/assets/3d9fa222-4914-42ab-8dc9-57d2af9936ae" />
+
+
 
 
 
