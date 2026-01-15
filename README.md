@@ -140,18 +140,17 @@ AI Apps for better dental care
  
 
 33.  **DENTAL HEALTH AI ANALYTICS Precision Clinical Decision Support System**
-     ** Live Demo** https://stackblitz.com/edit/vitejs-vite-1u8rz7s3?file=src%2FApp.tsx <img width="803" height="613" alt="Dental health analytics1" src="https://github.com/user-attachments/assets/1722b1e7-f366-4368-a718-978ae9ad14fb" /><img width="774" height="592" alt="Dental health analytics2" src="https://github.com/user-attachments/assets/d9ecadde-ad7f-419b-ad27-e96b7d2530f6" />
+     ** Live Demo** https://stackblitz.com/edit/vitejs-vite-1u8rz7s3?file=src%2FApp.tsx <img width="803" height="613" alt="Dental health analytics1" src="https://github.com/user-attachments/assets/1722b1e7-f366-4368-a718-978ae9ad14fb" /> <img width="774" height="592" alt="Dental health analytics2" src="https://github.com/user-attachments/assets/d9ecadde-ad7f-419b-ad27-e96b7d2530f6" />
 
     
 34. **GERIATRIC DENTAL DECISION SUPPORT**Precision Analytics for Senior Oral Health & Surgery
-   **Live Demo**https://stackblitz.com/edit/vitejs-vite-enzs193c?file=src%2FApp.tsx <img width="832" height="607" alt="Geriatic dental1" src="https://github.com/user-attachments/assets/3b94cabf-c6ac-462e-a699-1387cf800f13" /><img width="928" height="573" alt="Geriatic 2" src="https://github.com/user-attachments/assets/2048757e-af5f-4e6c-9a9d-853c09af1069" />
+   **Live Demo**https://stackblitz.com/edit/vitejs-vite-enzs193c?file=src%2FApp.tsx <img width="832" height="607" alt="Geriatic dental1" src="https://github.com/user-attachments/assets/3b94cabf-c6ac-462e-a699-1387cf800f13" /><img         width="928" height="573" alt="Geriatic 2" src="https://github.com/user-attachments/assets/2048757e-af5f-4e6c-9a9d-853c09af1069" />
 
 
 35. **PRECISION DECISION SUPPORT SYSTEM** Health & Dental Analytics Suite
-    **Live Demo**https://stackblitz.com/edit/vitejs-vite-zkuyhvxh?file=src%2FApp.tsx<img width="807" height="621" alt="Precision analytics2" src="https://github.com/user-attachments/assets/487b434e-3ad8-481f-994b-e1c1a5bc060c" />
-<img width="805" height="611" alt="Precision Decision1" src="https://github.com/user-attachments/assets/3d9fa222-4914-42ab-8dc9-57d2af9936ae" />
+    **Live Demo**https://stackblitz.com/edit/vitejs-vite-zkuyhvxh?file=src%2FApp.tsx <img width="805" height="611" alt="Precision Decision1" src="https://github.com/user-attachments/assets/f2a28144-d069-4c87-b025-d2501bd28dfe" /><img       width="807" height="621" alt="Precision analytics2" src="https://github.com/user-attachments/assets/8b5c75a5-0fbb-440e-bf89-ce0a04b53896" />
 
-
+ 
 36.  **CLINICAL ANALYTICS & DIAGNOSTIC INTERFACE**Advanced Health Decision Logic Suite
      **Live Demo** https://stackblitz.com/edit/vitejs-vite-m9tcz5iz?file=src%2FApp.tsx <img width="942" height="582" alt="CLinical analytics1" src="https://github.com/user-attachments/assets/69665e7f-e511-4b29-a40e-488589b055ab" /><img      width="942" height="613" alt="Clinical analytics2" src="https://github.com/user-attachments/assets/c7133328-d615-4cbb-841c-47088e1f5f46" />
 
