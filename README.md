@@ -136,13 +136,13 @@ AI Apps for better dental care
       **Live Demo**https://stackblitz.com/edit/vitejs-vite-yvenatkm?file=src%2FApp.tsx<img width="664" height="618" alt="AI Robotic Breast examiner1" src="https://github.com/user-attachments/assets/0a55d7b4-486d-48cc-8eb7-4ab6f1570f48"        /><img width="915" height="625" alt="AI Robotic Breast examiner2" src="https://github.com/user-attachments/assets/6b206b4d-45ed-441e-b2d9-79e486f892ce" />
 
 32.  **AI Robotic PCOS Cycle & Symptom Tracker**-Empowering women with PCOS — cycle phase detection, symptom input (weight gain, acne, mood swings, fatigue, excess hair), personalized AI advice (diet, exercise, doctor consultation) with      gentle 3D robotic arm simulation.
-      ** Live Demo**https://stackblitz.com/edit/vitejs-vite-fuw97svn?file=src%2FApp.tsx  <img width="951" height="609" alt="AI Robotic PCOS2" src="https://github.com/user-attachments/assets/84b33276-c8e3-4663-ab39-26bdbbba70f1" />
-     <img width="686" height="602" alt="AI Robotic PCOS 1" src="https://github.com/user-attachments/assets/0355c064-bc4a-4505-a563-e2152e8b1a52" />
+      ** Live Demo**https://stackblitz.com/edit/vitejs-vite-fuw97svn?file=src%2FApp.tsx  <img width="686" height="602" alt="AI Robotic PCOS 1" src="https://github.com/user-attachments/assets/5a9b3808-4808-4585-9769-52165018fe1c" /><img       width="951" height="609" alt="AI Robotic PCOS2" src="https://github.com/user-attachments/assets/b254a4a7-524b-4242-bb90-917bfbb8d246" />
+ 
 
 33.  **DENTAL HEALTH AI ANALYTICS Precision Clinical Decision Support System**
-     ** Live Demo** https://stackblitz.com/edit/vitejs-vite-1u8rz7s3?file=src%2FApp.tsx<img width="774" height="592" alt="Dental health analytics2" src="https://github.com/user-attachments/assets/becd45e5-973e-4708-b1d7-a8252dc1b554" />
-<img width="803" height="613" alt="Dental health analytics1" src="https://github.com/user-attachments/assets/ffc645f5-47fe-410f-b60a-fbc9826941a2" />
+     ** Live Demo** https://stackblitz.com/edit/vitejs-vite-1u8rz7s3?file=src%2FApp.tsx <img width="803" height="613" alt="Dental health analytics1" src="https://github.com/user-attachments/assets/1722b1e7-f366-4368-a718-978ae9ad14fb" /><img width="774" height="592" alt="Dental health analytics2" src="https://github.com/user-attachments/assets/d9ecadde-ad7f-419b-ad27-e96b7d2530f6" />
 
+    
 34. **GERIATRIC DENTAL DECISION SUPPORT**Precision Analytics for Senior Oral Health & Surgery
    **Live Demo**https://stackblitz.com/edit/vitejs-vite-enzs193c?file=src%2FApp.tsx <img width="928" height="573" alt="Geriatic 2" src="https://github.com/user-attachments/assets/fb6d3320-0144-4817-8281-762976d3a050" />
 <img width="832" height="607" alt="Geriatic dental1" src="https://github.com/user-attachments/assets/349c70cc-9804-4a00-93c3-3f37c4aed976" />
