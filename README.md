@@ -156,7 +156,8 @@ AI Apps for better dental care
 
     
 37.  **AI Empowerment Portal**A functional prototype demonstrating interactive AI guidance for social empowerment.
-     **Live Demo** https://stackblitz.com/edit/stackblitz-starters-ligktzex?file=index.html<img width="1287" height="614" alt="AI Empowerment portal" src="https://github.com/user-attachments/assets/62ffaf2c-717f-475a-b571-e7a0092761cb" />
+     **Live Demo** https://stackblitz.com/edit/stackblitz-starters-ligktzex?file=index.html<img width="1287" height="614" alt="AI Empowerment portal" src="https://github.com/user-attachments/assets/62ffaf2c-717f-475a-b571-e7a0092761cb" /><img width="1333" height="613" alt="AI Empowerment portal2" src="https://github.com/user-attachments/assets/d9716adb-5141-490f-b51f-232a423b1ae7" />
+
 
  
 
