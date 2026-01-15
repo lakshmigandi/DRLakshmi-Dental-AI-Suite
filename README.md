@@ -154,6 +154,10 @@ AI Apps for better dental care
 36.  **CLINICAL ANALYTICS & DIAGNOSTIC INTERFACE**Advanced Health Decision Logic Suite
      **Live Demo** https://stackblitz.com/edit/vitejs-vite-m9tcz5iz?file=src%2FApp.tsx<img width="942" height="613" alt="Clinical analytics2" src="https://github.com/user-attachments/assets/6e0d6f24-cbfa-4f81-bf67-dd2212c0d189" />
 <img width="942" height="582" alt="CLinical analytics1" src="https://github.com/user-attachments/assets/54c1c715-a096-4175-b9f5-29ffeb387140" />
+
+37.  **AI Empowerment Portal**A functional prototype demonstrating interactive AI guidance for social empowerment.
+     **Live Demo** https://stackblitz.com/edit/stackblitz-starters-ligktzex?file=index.html<img width="1287" height="614" alt="AI Empowerment portal" src="https://github.com/user-attachments/assets/62ffaf2c-717f-475a-b571-e7a0092761cb" />
+
  
 
 
