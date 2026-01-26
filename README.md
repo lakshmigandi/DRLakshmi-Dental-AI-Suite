@@ -159,6 +159,13 @@ AI Apps for better dental care
      **Live Demo** https://stackblitz.com/edit/stackblitz-starters-ligktzex?file=index.html<img width="1287" height="614" alt="AI Empowerment portal" src="https://github.com/user-attachments/assets/62ffaf2c-717f-475a-b571-e7a0092761cb" /><img width="1333" height="613" alt="AI Empowerment portal2" src="https://github.com/user-attachments/assets/d9716adb-5141-490f-b51f-232a423b1ae7" />
 
 
+38.  **Healthcare-Robotics**Maxillofacial Path Analyzer. Implements real-time robotic triage logic for surgical planning based on fracture gap measurements.
+     **Live Demo**https://stackblitz.com/edit/stackblitz-starters-t2hnl4fs?file=index.html<img width="1366" height="619" alt="Healthcare Robotics" src="https://github.com/user-attachments/assets/4344aaac-dd72-4211-a1ad-b4dc20164616" />
+
+        
+     
+
+
  
 
 
