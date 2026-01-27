@@ -166,6 +166,13 @@ AI Apps for better dental care
      **Live Demo** https://stackblitz.com/edit/stackblitz-starters-1naomk5h?file=index.html <img width="1347" height="619" alt="Healthcare roboticanalyser1" src="https://github.com/user-attachments/assets/2648d3bb-46c6-4fa6-b1f5-57b7f66a4e99" /> <img width="1358" height="620" alt="Healthcare robotic analyser2" src="https://github.com/user-attachments/assets/a0767bfa-b5b1-4201-b729-f82203e8d98f" />
 
 
+40.  **Surgical Robotics Suite** Safety Protocol: Calibration for Mechanical Offset Check
+     **Live Demo** https://stackblitz.com/edit/stackblitz-starters-nydskzpu?file=index.html <img width="1355" height="617" alt="Roboticsurgical suite" src="https://github.com/user-attachments/assets/c484b29b-1077-4436-9a3c-0caa531fb0c2" />
+
+41.  **     
+     
+
+
 
         
      
