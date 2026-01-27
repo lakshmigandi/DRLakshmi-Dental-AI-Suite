@@ -210,7 +210,7 @@ AI Apps for better dental care
      **Live Demo** https://stackblitz.com/edit/stackblitz-starters-x1q9b9oq?file=index.html <img width="667" height="612" alt="Surgical audit" src="https://github.com/user-attachments/assets/2caf65e8-4665-4954-9ecf-0e311b7d80b2" />
 
 54.  **PATH PLANNER v4.0**A preoperative surgical navigation tool that simulates robotic drill paths and provides automated collision detection for anatomical 'No-Go' zones.
-     **Live Demo**https://stackblitz.com/edit/stackblitz-starters-derby59h?file=index.html <img width="718" height="541" alt="Path planner" src="https://github.com/user-attachments/assets/d28d32ca-7794-49d4-b9a1-90e8ab203fb8" />
+     **Live Demo**https://stackblitz.com/edit/stackblitz-starters-derby59h?file=index.html  <img width="718" height="541" alt="Path planner" src="https://github.com/user-attachments/assets/d28d32ca-7794-49d4-b9a1-90e8ab203fb8" />
 
 55.
      
