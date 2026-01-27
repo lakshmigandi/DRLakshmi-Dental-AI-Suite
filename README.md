@@ -169,7 +169,46 @@ AI Apps for better dental care
 40.  **Surgical Robotics Suite** Safety Protocol: Calibration for Mechanical Offset Check
      **Live Demo** https://stackblitz.com/edit/stackblitz-starters-nydskzpu?file=index.html <img width="1355" height="617" alt="Roboticsurgical suite" src="https://github.com/user-attachments/assets/c484b29b-1077-4436-9a3c-0caa531fb0c2" />
 
-41.  **     
+41.  **ROBOTIC SURGICAL SUITE** This suite is a Surgical Decision Support System specifically for Maxillofacial Surgery (surgeries involving the face, jaw, and skull).
+     **Live Demo**https://stackblitz.com/edit/stackblitz-starters-buirydnr?file=index.html <img width="1356" height="620" alt="Robotic surgical suite2" src="https://github.com/user-attachments/assets/1299f53c-8c55-4466-be1b-aab2e7cc5951" />
+
+42.  **BONE DENSITY & IMPLANT ANALYSER**This tool is a Clinical Decision Support (CDS) module designed to assist surgeons during the planning phase of a dental or jaw implant procedure.
+     **Live Demo**https://stackblitz.com/edit/stackblitz-starters-ku6vqb5w?file=index.html <img width="1183" height="619" alt="Bone dentisty analyser" src="https://github.com/user-attachments/assets/89e15cf5-aff1-4dcd-8b1d-1e928e7b5b6a" />
+
+43.  **RECONSTRUCTIVE PLATE SELECTOR APP**It is a specialized tool used to ensure surgical precision and hardware longevity in jaw reconstruction.
+     **Live Demo** https://stackblitz.com/edit/stackblitz-starters-2ec7kj5e?file=index.html <img width="1069" height="612" alt="Reconstructive plate" src="https://github.com/user-attachments/assets/dc12d1ce-9a80-4cdf-aaa5-e8ea8b0ca28b" />
+
+44.  **SURGICAL SCREW TORQUE MONITOR** This app ensures those screws are driven in with the exact amount of rotational force (Torque) required.
+     **Live Demo** https://stackblitz.com/edit/stackblitz-starters-2etrphkv?file=index.html <img width="1095" height="610" alt="Surgical screw tortqe" src="https://github.com/user-attachments/assets/6f6b3295-d1ad-4b15-b077-86acd87b5133" />
+
+45.  **OCCLUSAL FORCE SIMULATOR**This app is a high-level diagnostic tool that bridges the gap between structural surgery and functional rehabilitation
+     **Live Demo** https://stackblitz.com/edit/stackblitz-starters-f5qnlqjr?file=index.html <img width="1190" height="606" alt="Occulusal force stimulater" src="https://github.com/user-attachments/assets/26c26a0c-26da-446f-94ca-2134f6e70ee7" />
+
+46.  **ROBOTIC PATH MONITOR**This app is used for Intra-operative Navigation Accuracy.This app acts as the "Digital Eyes" that ensure the robot is moving exactly where it was told to move in the pre-op 3D plan.
+     **Live Demo** https://stackblitz.com/edit/stackblitz-starters-upb9ixup?file=index.html <img width="1188" height="606" alt="Robotic path monitor" src="https://github.com/user-attachments/assets/3934978c-8213-46b3-8ec9-6316dd4a1a84" />
+
+47.  **ROBOTIC THERMAL PROTECTOR**This app is a critical safety "fail-safe" designed to prevent one of the most common complications in robotic bone surgery: Thermal Osteonecrosis.
+     **Live Demo** https://stackblitz.com/edit/stackblitz-starters-fnfqyuwh?file=index.html<img width="1071" height="606" alt="Robotic thermal" src="https://github.com/user-attachments/assets/f604ed32-3479-4e5f-b2c5-60032bb16171" />
+
+48.  **HAPTIC SENSORY STABILIZER**This app is essentially the "digital nervous system" of a surgical robot.This app translates mechanical resistance into data so the surgeon can "feel" the tissues through the screen.
+     **Live Demo** https://stackblitz.com/edit/stackblitz-starters-y8ubzaqd?file=index.html <img width="1207" height="606" alt="Haptic bone" src="https://github.com/user-attachments/assets/08845413-4201-4002-9ae7-39df5a43629d" />
+
+49.  **STERILE SUPPLY TRACKER**This app is the "Infection Control" hub of your robotic suite. Its primary use is to verify that all robotic attachments and surgical instruments have undergone a successful Autoclave Cycle.
+     **Live Demo** https://stackblitz.com/edit/stackblitz-starters-r8ztxrcj?file=index.html<img width="1208" height="610" alt="Sterile tracker" src="https://github.com/user-attachments/assets/43d51dba-6b0d-4118-8572-1af6080009a5" />
+
+50.  **
+     
+  
+     
+   
+   
+
+     
+  
+
+
+     
+    
      
 
 
