@@ -196,7 +196,29 @@ AI Apps for better dental care
 49.  **STERILE SUPPLY TRACKER**This app is the "Infection Control" hub of your robotic suite. Its primary use is to verify that all robotic attachments and surgical instruments have undergone a successful Autoclave Cycle.
      **Live Demo** https://stackblitz.com/edit/stackblitz-starters-r8ztxrcj?file=index.html<img width="1208" height="610" alt="Sterile tracker" src="https://github.com/user-attachments/assets/43d51dba-6b0d-4118-8572-1af6080009a5" />
 
-50.  **
+50.  **ROBOTIC POWER MONITOR**This app is a critical safety interlock system with Automated "Safe-Stop" Trigger,UPS (Uninterruptible Power Supply) Verification,Preventing Hardware Malfunction.
+     **Live Demo** https://stackblitz.com/edit/stackblitz-starters-z7ycvwjb?file=index.html <img width="758" height="602" alt="Robitic battery " src="https://github.com/user-attachments/assets/fe909e26-9548-4765-87ca-70ad92cd1748" />
+
+51.  **Remote Tele-Surgery Link**This app is to monitor the "Real-Time Link" between the surgeon's hands and the robot's claws.If the latency goes over 100ms, the app signals a "Safety Pause." It ensures the robot only moves when the         connection is 100% synchronized.
+    **Live Demo**https://stackblitz.com/edit/stackblitz-starters-np81bljj?file=index.html <img width="1094" height="607" alt="Remote Telesurgery" src="https://github.com/user-attachments/assets/be2ba51e-b6cc-44d7-8bb7-66eb9180245e" />
+
+52.  **FLUIDICS COMMAND**Robotic bone surgery system.A real-time surgical fluidics dashboard that monitors saline irrigation flow rates to prevent thermal bone necrosis during robotic procedures
+     **Live Demo**https://stackblitz.com/edit/stackblitz-starters-xuagzvc3?file=index.html <img width="1160" height="606" alt="Fluidics Command" src="https://github.com/user-attachments/assets/9612c0fb-2427-4389-940e-2c92f15dbb21" />
+     
+
+53.  **Surgical Accuracy Audit**Post-Operative Robotic Precision Auditor.A clinical quality-control tool that calculates surgical accuracy by measuring deviation between robotic execution and 3D preoperative planning.
+     **Live Demo** https://stackblitz.com/edit/stackblitz-starters-x1q9b9oq?file=index.html <img width="667" height="612" alt="Surgical audit" src="https://github.com/user-attachments/assets/2caf65e8-4665-4954-9ecf-0e311b7d80b2" />
+
+54.  **PATH PLANNER v4.0**A preoperative surgical navigation tool that simulates robotic drill paths and provides automated collision detection for anatomical 'No-Go' zones.
+     **Live Demo**https://stackblitz.com/edit/stackblitz-starters-derby59h?file=index.html <img width="718" height="541" alt="Path planner" src="https://github.com/user-attachments/assets/d28d32ca-7794-49d4-b9a1-90e8ab203fb8" />
+
+55.
+     
+
+     
+    
+      
+
      
   
      
