@@ -272,9 +272,10 @@ Email:lakshmigandi6817@gmail.com
      **Live Demo** https://stackblitz.com/edit/stackblitz-starters-6dyy6cxc?file=index.html <img width="577" height="456" alt="Multimodal engine" src="https://github.com/user-attachments/assets/c9cba551-463f-4ab6-a215-5e7b014f63df" />
 
 74.  **Robotic Tremor-Filter Engine** A Real-time physiological noise attenuation app for robotic-assisted microsurgery.
-     **Live Demo**https://stackblitz.com/edit/stackblitz-starters-h1abeeyu?file=index.html <img width="729" height="844" alt="Robotic tremor filter" src="https://github.com/user-attachments/assets/d6511c43-cc3b-4c31-866d-82eccaa406ee" />
+     **Live Demo**https://stackblitz.com/edit/stackblitz-starters-h1abeeyu?file=index.html <img width="872" height="539" alt="Robotic tremor filter1" src="https://github.com/user-attachments/assets/90166184-69d6-4e37-ac2d-417c62f746fc" />
 
-75.  **Osteo-Vision Diagnostic AI**A diagnostic imaging tool using Pixel-Intensity Analysis to calculate bone mineral density (BMD) and classify skeletal health risk based on WHO T-score standards.
+     
+76.  **Osteo-Vision Diagnostic AI**A diagnostic imaging tool using Pixel-Intensity Analysis to calculate bone mineral density (BMD) and classify skeletal health risk based on WHO T-score standards.
      **Live Demo** https://stackblitz.com/edit/stackblitz-starters-njzntfr5?file=index.html <img width="544" height="610" alt="Osteo-vision classifier" src="https://github.com/user-attachments/assets/24c358a7-8116-4f12-9069-839df9a9981a" />
 
    
