@@ -264,7 +264,8 @@ Email:lakshmigandi6817@gmail.com
      **Live Demo**https://stackblitz.com/edit/stackblitz-starters-fn8htqar?file=index.html <img width="455" height="579" alt="Neural heatmap" src="https://github.com/user-attachments/assets/ad93771a-9106-42d0-a2a4-5a5016d2aac2" />
 
 72.  **Clinical Data Synthesizer**A generative intelligence prototype using Adversarial Synthesis to reconstruct high-fidelity clinical profiles from low-resolution or noisy diagnostic inputs.
-     **Live Demo**https://stackblitz.com/edit/stackblitz-starters-miu1ww2b?file=index.html <img width="588" height="580" alt="Clinical data synthetizer" src="https://github.com/user-attachments/assets/be10b9b1-7424-42c0-9112-                  2af8978ee634" />
+     **Live Demo**https://stackblitz.com/edit/stackblitz-starters-miu1ww2b?file=index.html <img width="588" height="580" alt="Clinical data synthetizer" src="https://github.com/user-attachments/assets/5d2c4f1a-9686-4dd2-8edb-794c21f74217" />
+
 
 73.  **Multi-modal Fusion Engine**A clinical fusion engine that synchronizes Multi-modal Datasets (Numerical Vitals + Imaging Gradients) to provide a unified diagnostic confidence score.
      **Live Demo** https://stackblitz.com/edit/stackblitz-starters-6dyy6cxc?file=index.html <img width="577" height="456" alt="Multimodal engine" src="https://github.com/user-attachments/assets/c9cba551-463f-4ab6-a215-5e7b014f63df" />
