@@ -243,7 +243,8 @@ Email:lakshmigandi6817@gmail.com
      **Live Demo**https://stackblitz.com/edit/stackblitz-starters-nswk59d6?file=index.html <img width="620" height="605" alt="Integraded clinical hub" src="https://github.com/user-attachments/assets/e2284ccb-a117-49e4-82aa-d1928be4aeea"       />
 
 65.   **Clinical Trend Predictor**A predictive clinical dashboard using Linear Regression to forecast patient vital sign trajectories for early-warning risk detection and proactive intervention.
-      **Live Demo**https://stackblitz.com/edit/stackblitz-starters-arrifsxf?file=index.html <img width="627" height="608" alt="Clinical trend predictor" src="https://github.com/user-attachments/assets/b872c03b-b81b-4b19-ab51-                  f05555ede64e" />
+      **Live Demo**https://stackblitz.com/edit/stackblitz-starters-arrifsxf?file=index.html <img width="627" height="608" alt="Clinical trend predictor" src="https://github.com/user-attachments/assets/f4b463b3-2530-4f92-b767-cb9ee43aa074" />
+
 
 66.  **Neural Pathology Classifier** An automated pathology screening tool utilizing a Sigmoid Activation Function to perform binary classification of cellular morphology for rapid anomaly detection.
      **Live Demo** https://stackblitz.com/edit/stackblitz-starters-ykbnxyb3?file=index.html <img width="638" height="597" alt="Neural pathology1" src="https://github.com/user-attachments/assets/b41bdb1b-bb7d-4d9a-804e-96f01ec2ffff" />
@@ -274,7 +275,8 @@ Email:lakshmigandi6817@gmail.com
      **Live Demo**https://stackblitz.com/edit/stackblitz-starters-h1abeeyu?file=index.html <img width="729" height="844" alt="Robotic tremor filter" src="https://github.com/user-attachments/assets/d6511c43-cc3b-4c31-866d-82eccaa406ee" />
 
 75.  **Osteo-Vision Diagnostic AI**A diagnostic imaging tool using Pixel-Intensity Analysis to calculate bone mineral density (BMD) and classify skeletal health risk based on WHO T-score standards.
-     **Live Demo** https://stackblitz.com/edit/stackblitz-starters-njzntfr5?file=index.html <img width="544" height="610" alt="Osteo-vision classifier" src="https://github.com/user-attachments/assets/2ff211b8-5265-4f9e-be53-                   663a3cedd20c" />
+     **Live Demo** https://stackblitz.com/edit/stackblitz-starters-njzntfr5?file=index.html <img width="544" height="610" alt="Osteo-vision classifier" src="https://github.com/user-attachments/assets/24c358a7-8116-4f12-9069-839df9a9981a" />
+
    
   
  
