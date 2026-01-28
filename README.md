@@ -266,6 +266,18 @@ Email:lakshmigandi6817@gmail.com
 72.  **Clinical Data Synthesizer**A generative intelligence prototype using Adversarial Synthesis to reconstruct high-fidelity clinical profiles from low-resolution or noisy diagnostic inputs.
      **Live Demo**https://stackblitz.com/edit/stackblitz-starters-miu1ww2b?file=index.html <img width="588" height="580" alt="Clinical data synthetizer" src="https://github.com/user-attachments/assets/be10b9b1-7424-42c0-9112-                  2af8978ee634" />
 
+73.  **Multi-modal Fusion Engine**A clinical fusion engine that synchronizes Multi-modal Datasets (Numerical Vitals + Imaging Gradients) to provide a unified diagnostic confidence score.
+     **Live Demo** https://stackblitz.com/edit/stackblitz-starters-6dyy6cxc?file=index.html <img width="577" height="456" alt="Multimodal engine" src="https://github.com/user-attachments/assets/c9cba551-463f-4ab6-a215-5e7b014f63df" />
+
+74.  **Robotic Tremor-Filter Engine** A Real-time physiological noise attenuation app for robotic-assisted microsurgery.
+     **Live Demo**https://stackblitz.com/edit/stackblitz-starters-h1abeeyu?file=index.html <img width="729" height="844" alt="Robotic tremor filter" src="https://github.com/user-attachments/assets/d6511c43-cc3b-4c31-866d-82eccaa406ee" />
+
+75.  **Osteo-Vision Diagnostic AI**A diagnostic imaging tool using Pixel-Intensity Analysis to calculate bone mineral density (BMD) and classify skeletal health risk based on WHO T-score standards.
+     **Live Demo** https://stackblitz.com/edit/stackblitz-starters-njzntfr5?file=index.html <img width="544" height="610" alt="Osteo-vision classifier" src="https://github.com/user-attachments/assets/2ff211b8-5265-4f9e-be53-                   663a3cedd20c" />
+   
+  
+ 
+
 
      
 
