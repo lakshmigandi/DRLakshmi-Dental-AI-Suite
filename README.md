@@ -326,7 +326,52 @@ Email:lakshmigandi6817@gmail.com
 90.  **Cryo-Bank Logistics AI**This is a specialized industrial robotics simulation that automates the retrieval of bio-bank specimens at $-80$°C using a thermal-shielded gantry crane to eliminate human exposure and prevent specimen thawing.
      **Live Demo**https://stackblitz.com/edit/stackblitz-starters-jih1tbto?file=index.html <img width="1117" height="606" alt="Cryo-bot" src="https://github.com/user-attachments/assets/7b642964-d86d-4824-87d9-3d2d5e4902ce" />
 
-91.  **     
+91.  **Hazardous Waste Autonomy**An autonomous Computer Vision drone system for the identification and containment of bio-hazardous medical waste in high-risk clinical zones.
+     **Live Demo**https://stackblitz.com/edit/stackblitz-starters-zbbvjcsy?file=index.html <img width="1066" height="594" alt="Bio-hazard" src="https://github.com/user-attachments/assets/ef8f5fe1-a1d6-43db-9365-3e51ad89caad" />
+
+92.  **Supply Chain Predictive AI**A predictive analytics engine that utilizes Time-Series Forecasting to prevent medical inventory stock-outs and optimize supply chain replenishment.
+     **Live Demo**https://stackblitz.com/edit/stackblitz-starters-vbfykdja?file=index.html <img width="1170" height="535" alt="AI supply chain" src="https://github.com/user-attachments/assets/577311c0-2e09-47d7-af28-187a9a271bd1" />
+
+93.  **Nano-Precision Ophthalmic Laser Robot**A high-precision Robotic Laser Control System for ophthalmic surgery, featuring sub-millimeter tracking and automated beam-stop safety protocols.
+     **Live Demo**https://stackblitz.com/edit/stackblitz-starters-mfxqdrev?file=index.html <img width="1163" height="605" alt="Ophthalmic laserAI" src="https://github.com/user-attachments/assets/65e3c4c9-5abe-4379-8207-ed0d494c57c8" />
+
+94.  **Neural-Interface Prosthetic Controller**A neural-integrated Prosthetic Simulation that translates EMG (Electromyography) signals into fluid robotic joint movements with real-time haptic feedback.
+     **Live Demo**https://stackblitz.com/edit/stackblitz-starters-wwb7zk51?file=index.html <img width="1105" height="604" alt="Neural prosthetic" src="https://github.com/user-attachments/assets/b15dd6a7-5018-498e-b2cc-415733e7b917" />
+
+95.  **Smart Neonatal Incubator (AI-Vitals)**An intelligent Neonatal Life Support Simulation using adaptive AI to maintain homeostasis in high-risk preterm infants via real-time sensory feedback.
+     **Live Demo**https://stackblitz.com/edit/stackblitz-starters-glnbfjtz?file=index.html <img width="1202" height="596" alt="AI neonatal support" src="https://github.com/user-attachments/assets/02a45a97-c3fc-419b-a664-c8096049d777" />
+
+96.  **AI Tele-Surgical Arm Robot**A robotic Tele-Surgery Controller with AI tremor-filtering and micro-incision logic for high-precision remote operative procedures.
+     **Live Demo**https://stackblitz.com/edit/stackblitz-starters-p32djvfp?file=index.html <img width="1077" height="606" alt="AI surgical robot" src="https://github.com/user-attachments/assets/b4f07ab8-dbdf-4d58-abe0-37440efce8ad" />
+
+97.  **BCI Neural Thought-Decoder**A Neural Decoding Interface utilizing AI to translate EEG thought-patterns into real-time text communication for non-verbal clinical patients.
+     **Live Demo**https://stackblitz.com/edit/stackblitz-starters-dckgihke?file=index.html <img width="1131" height="601" alt="Neural Decryptor" src="https://github.com/user-attachments/assets/39e5e726-5106-4415-87e6-3b3547e83a89" />
+
+98.   **Global Bio-Surveillance AI (Heat-Map)**A Predictive Epidemiological Dashboard that models global infectious disease spread using spatial-temporal AI clusters and travel-vector analysis.
+      **Live Demo**https://stackblitz.com/edit/stackblitz-starters-so3umwyn?file=index.html <img width="1034" height="594" alt="Global bio-surveillance AI" src="https://github.com/user-attachments/assets/a6d5d5b3-626e-4f79-b849-fb08aed7dce5" />
+
+99.   **Nano-Robotic Targeted Drug Delivery **A Nano-Robotic Drug Delivery Simulation visualizing autonomous AI navigation through the vascular system for targeted oncology treatment.
+      **Live Demo**https://stackblitz.com/edit/stackblitz-starters-uswoazim?file=index.html <img width="938" height="573" alt="Nano-Bot AI" src="https://github.com/user-attachments/assets/3bdcee2a-5eb4-4e0b-ab81-373c3aa143b6" />
+
+100.  **Holo-Health – The Predictive Digital Twin**The ultimate Predictive Healthcare Engine integrating multi-omic data to create a 3D Digital Twin for 10-year disease forecasting and personalized treatment simulation.
+      **Live Demo**https://stackblitz.com/edit/stackblitz-starters-vylvah1x?file=index.html <img width="1076" height="576" alt="Holo-health AI" src="https://github.com/user-attachments/assets/dd41d13d-2b40-4829-ae4f-e5b2b0264326" />
+
+
+       
+                                                                                               >
+
+     
+
+     
+
+     
+
+     
+    
+
+
+     
+   
 
       
       
