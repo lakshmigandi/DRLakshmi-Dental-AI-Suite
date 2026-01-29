@@ -315,12 +315,21 @@ Email:lakshmigandi6817@gmail.com
 
 87. **Bio-Synthetic Printing Lab**The system utilizes real-time path-correction and thermal monitoring to ensure that living cells remain viable throughout the printing process
     **Live Demo** https://stackblitz.com/edit/stackblitz-starters-zgrxgao3?file=index.html <img width="828" height="431" alt="Bio-synthetic" src="https://github.com/user-attachments/assets/2c5e2823-9fc5-48bf-bad7-73f0ea7212a6" />
-  
-  
-  
-  
-     
-  
+
+
+88.   **Pharmacy Robotics v1.0**A robotic inventory system using XYZ-axis coordinate logic and Soft-Grip Telemetry to safely dispense fragile medical vials.
+      **Live Demo**https://stackblitz.com/edit/stackblitz-starters-bqbr4rkc?file=index.html <img width="884" height="601" alt="Pharmacy robotics" src="https://github.com/user-attachments/assets/c218bc42-3d6c-4ea8-883d-0ba7ca31780c" />
+
+89.   **Deep-Freeze Retrieval UI**A specialized Thermal-Shielded Robotic Retrieval System for automated specimen management in ultra-low temperature ($ -80$°C) bio-bank environments
+      **Live Demo**https://stackblitz.com/edit/stackblitz-starters-mhouc1ky?file=index.html <img width="1366" height="768" alt="Cryo-Bank AI" src="https://github.com/user-attachments/assets/daf7d3cf-c24c-44c1-b4fd-783d5e8e3683" />
+
+90.  **Cryo-Bank Logistics AI**This is a specialized industrial robotics simulation that automates the retrieval of bio-bank specimens at $-80$°C using a thermal-shielded gantry crane to eliminate human exposure and prevent specimen thawing.
+     **Live Demo**https://stackblitz.com/edit/stackblitz-starters-jih1tbto?file=index.html <img width="1117" height="606" alt="Cryo-bot" src="https://github.com/user-attachments/assets/7b642964-d86d-4824-87d9-3d2d5e4902ce" />
+
+91.  **     
+
+      
+      
 
 
 
