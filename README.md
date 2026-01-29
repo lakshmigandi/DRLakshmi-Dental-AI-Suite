@@ -2,7 +2,7 @@
 # DR.Lakshmi-Dental-AI-Suite
 ***100 Live projects in AI,Robotcs,healthcare & dentistry***
 Email:lakshmigandi6817@gmail.com
-***Bridging Precision Surgery with Machine Intelligence" A comprehensive repository featuring 100 Live Projects in AI, Robotics, Clinical Healthcare, and Specialized Dentistry.***
+***"Bridging Precision Surgery with Machine Intelligence" A comprehensive repository featuring 100 Live Projects in AI, Robotics, Clinical Healthcare, and Specialized Dentistry.***
 ## Live Apps ##
 Click the links below to explore the interactive simulations.
 1. **Caries Risk Score Calculator**  
