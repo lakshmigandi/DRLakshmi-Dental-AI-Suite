@@ -276,7 +276,25 @@ Email:lakshmigandi6817@gmail.com
 
      
 76.  **Osteo-Vision Diagnostic AI**A diagnostic imaging tool using Pixel-Intensity Analysis to calculate bone mineral density (BMD) and classify skeletal health risk based on WHO T-score standards.
-     **Live Demo** https://stackblitz.com/edit/stackblitz-starters-njzntfr5?file=index.html <img width="544" height="610" alt="Osteo-vision classifier" src="https://github.com/user-attachments/assets/24c358a7-8116-4f12-9069-839df9a9981a" />
+     **Live Demo** https<img width="1351" height="610" alt="Nano-Bot " src="https://github.com/user-attachments/assets/c84f4149-51a8-4d70-9899-2fb68cd6ce00" />
+://stackblitz.com/edit/stackblitz-starters-njzntfr5?file=index.html <img width="544" height="610" alt="Osteo-vision classifier" src="https://github.com/user-attachments/assets/24c358a7-8116-4f12-9069-839df9a9981a" />
+
+
+77.  **Kinematic Trajectory Planner**A trajectory planning engine using Inverse Kinematics to calculate collision-free paths for robotic surgical end-effectors around critical anatomical structures.
+     **Live Demo**https://stackblitz.com/edit/stackblitz-starters-1x4spnb5?file=index.html <img width="1366" height="602" alt="Robotic path planner" src="https://github.com/user-attachments/assets/44f9f523-1c9e-471e-b569-5150634cf583" />
+
+78.  **Haptic Sensory Interface**A haptic visualization system that maps Force-Torque Sensor data into real-time visual alerts to prevent mechanical tissue trauma during robotic manipulation.
+     **Live Demo**https://stackblitz.com/edit/stackblitz-starters-wc1cwc8s?file=index.html <img width="1366" height="602" alt="Haptic feedback" src="https://github.com/user-attachments/assets/2ec4f455-97d6-4502-82b7-756ae47ecb6b" />
+
+79.  **Autonomous Suture Assistant**An automated wound-closure assistant utilizing Geometric Computer Vision to calculate optimal needle entry-and-exit vectors for uniform surgical suturing.
+     **Live Demo**https://stackblitz.com/edit/stackblitz-starters-gh3squzx?file=index.html <img width="1366" height="604" alt="Neural suture " src="https://github.com/user-attachments/assets/0b9ad87e-bd2c-40c4-b0e6-d6c8c65a9b1d" />
+
+80. **Nano-Swarm Coordinator**A swarm intelligence simulation using Agent-Based Modeling to coordinate targeted drug delivery by nanobots toward localized pathological clusters
+    **Live Demo**https://stackblitz.com/edit/stackblitz-starters-dzizb5kk?file=index.html
+     
+    
+
+
 
    
   
