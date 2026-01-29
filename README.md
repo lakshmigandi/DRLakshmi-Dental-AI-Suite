@@ -1,6 +1,6 @@
 **Portfolio of Dr. Lakshmi G., MDS — Oral & Maxiilofacial Surgeon Self-taught AI/ML enthusiast**
 # DR.Lakshmi-Dental-AI-Suite
-***61+ Live projects in AI,Robotcs,healthcare & dentistry***
+***80+ Live projects in AI,Robotcs,healthcare & dentistry***
 Email:lakshmigandi6817@gmail.com
 ## Live Apps ##
 1. **Caries Risk Score Calculator**  
@@ -275,22 +275,55 @@ Email:lakshmigandi6817@gmail.com
      **Live Demo**https://stackblitz.com/edit/stackblitz-starters-h1abeeyu?file=index.html <img width="872" height="539" alt="Robotic tremor filter1" src="https://github.com/user-attachments/assets/90166184-69d6-4e37-ac2d-417c62f746fc" />
 
      
-76.  **Osteo-Vision Diagnostic AI**A diagnostic imaging tool using Pixel-Intensity Analysis to calculate bone mineral density (BMD) and classify skeletal health risk based on WHO T-score standards.
-     **Live Demo** https<img width="1351" height="610" alt="Nano-Bot " src="https://github.com/user-attachments/assets/c84f4149-51a8-4d70-9899-2fb68cd6ce00" />
-://stackblitz.com/edit/stackblitz-starters-njzntfr5?file=index.html <img width="544" height="610" alt="Osteo-vision classifier" src="https://github.com/user-attachments/assets/24c358a7-8116-4f12-9069-839df9a9981a" />
+75.  **Osteo-Vision Diagnostic AI**A diagnostic imaging tool using Pixel-Intensity Analysis to calculate bone mineral density (BMD) and classify skeletal health risk based on WHO T-score standards.
+     **Live Demo** https://stackblitz.com/edit/stackblitz-starters-njzntfr5?file=index.html <img width="544" height="610" alt="Osteo-vision classifier" src="https://github.com/user-attachments/assets/24c358a7-8116-4f12-9069-839df9a9981a" />
 
 
-77.  **Kinematic Trajectory Planner**A trajectory planning engine using Inverse Kinematics to calculate collision-free paths for robotic surgical end-effectors around critical anatomical structures.
+76.  **Kinematic Trajectory Planner**A trajectory planning engine using Inverse Kinematics to calculate collision-free paths for robotic surgical end-effectors around critical anatomical structures.
      **Live Demo**https://stackblitz.com/edit/stackblitz-starters-1x4spnb5?file=index.html <img width="1366" height="602" alt="Robotic path planner" src="https://github.com/user-attachments/assets/44f9f523-1c9e-471e-b569-5150634cf583" />
 
-78.  **Haptic Sensory Interface**A haptic visualization system that maps Force-Torque Sensor data into real-time visual alerts to prevent mechanical tissue trauma during robotic manipulation.
+77.  **Haptic Sensory Interface**A haptic visualization system that maps Force-Torque Sensor data into real-time visual alerts to prevent mechanical tissue trauma during robotic manipulation.
      **Live Demo**https://stackblitz.com/edit/stackblitz-starters-wc1cwc8s?file=index.html <img width="1366" height="602" alt="Haptic feedback" src="https://github.com/user-attachments/assets/2ec4f455-97d6-4502-82b7-756ae47ecb6b" />
 
-79.  **Autonomous Suture Assistant**An automated wound-closure assistant utilizing Geometric Computer Vision to calculate optimal needle entry-and-exit vectors for uniform surgical suturing.
+78.  **Autonomous Suture Assistant**An automated wound-closure assistant utilizing Geometric Computer Vision to calculate optimal needle entry-and-exit vectors for uniform surgical suturing.
      **Live Demo**https://stackblitz.com/edit/stackblitz-starters-gh3squzx?file=index.html <img width="1366" height="604" alt="Neural suture " src="https://github.com/user-attachments/assets/0b9ad87e-bd2c-40c4-b0e6-d6c8c65a9b1d" />
 
-80. **Nano-Swarm Coordinator**A swarm intelligence simulation using Agent-Based Modeling to coordinate targeted drug delivery by nanobots toward localized pathological clusters
-    **Live Demo**https://stackblitz.com/edit/stackblitz-starters-dzizb5kk?file=index.html
+79. **Nano-Swarm Coordinator**A swarm intelligence simulation using Agent-Based Modeling to coordinate targeted drug delivery by nanobots toward localized pathological clusters
+    **Live Demo**https://stackblitz.com/edit/stackblitz-starters-dzizb5kk?file=index.html<img width="1351" height="610" alt="Nano-Bot " src="https://github.com/user-attachments/assets/fd7814d8-54ee-44b3-85c6-535c2825a4e8" />
+
+80. **Health Intelligence Command**This project demonstrates the transition from individual AI tools to a Unified Medical Intelligence System
+    **Live Demo**https://stackblitz.com/edit/stackblitz-starters-ljd77img?file=index.html <img width="1092" height="602" alt="Health command" src="https://github.com/user-attachments/assets/104797dd-e1c1-497c-8465-8862b7f8bee6" />
+
+
+81.  **Neuro-Clinical Risk AI**A behavioral health diagnostic tool using Natural Language Processing (NLP) to identify linguistic markers of clinical depression and professional burnout.
+     **Live Demo**https://stackblitz.com/edit/stackblitz-starters-83qtm7dm?file=index.html <img width="1364" height="604" alt="Neuroclinical" src="https://github.com/user-attachments/assets/e07552c6-68ea-4597-b03d-b36a1ab0cb6e" />
+
+82.  **Medical Supply Drone UI**A drone flight-path simulator for Autonomous Medical Logistics, managing real-time navigation and cold-chain monitoring for urgent supply delivery
+     **Live Demo** https://stackblitz.com/edit/stackblitz-starters-btesahzm?file=index.html <img width="1092" height="601" alt="Medical supply drone" src="https://github.com/user-attachments/assets/5f771f11-b28c-4146-a410-731cdcfe5ef5" />
+
+83.  **Prescription Guard AI**A clinical decision support tool using Conflict Matrix Logic to identify and prevent hazardous drug-to-drug interactions (ADR) in real-time.
+     **Live Demo**https://stackblitz.com/edit/stackblitz-starters-b6pb3fwg?file=index.html<img width="1364" height="559" alt="Prescription" src="https://github.com/user-attachments/assets/e2b2ccba-c835-4369-bc66-a040c2b3b98f" />
+
+84.  **Surgical Robot Telemetry**A real-time telemetry system for Surgical Robotics, utilizing torque-sensor data to prevent mechanical fatigue and optimize joint-articulation precision.
+     **Live Demo**https://stackblitz.com/edit/stackblitz-starters-nzeawu6h?file=index.html <img width="1093" height="597" alt="Robotic surgical" src="https://github.com/user-attachments/assets/083aa88e-4327-4384-b7d4-6771b4a3be1d" />
+
+85.  **Neural-Interface Decoder** A BCI simulation utilizing Signal Processing Algorithms to decode simulated EEG motor-cortex impulses into robotic movement commands.
+     **Live Demo**https://stackblitz.com/edit/stackblitz-starters-c4uww1vq?file=index.html <img width="1163" height="607" alt="Neural interface" src="https://github.com/user-attachments/assets/e5dc1804-bd8f-442f-a25f-7006a0d59636" />
+
+86.  **Nano-Robotic Cellular Repair Interface**A molecular-scale simulation of Self-Assembling Nano-Bots designed for targeted cellular membrane reconstruction and localized tissue repair.
+     **Live Demo**https://stackblitz.com/edit/stackblitz-starters-ycm8wdur?file=index.html <img width="1163" height="620" alt="Nano-repair" src="https://github.com/user-attachments/assets/ed4ee2e5-9edf-4c3b-8b03-b0ce8f72d973" />
+
+87. **Bio-Synthetic Printing Lab**The system utilizes real-time path-correction and thermal monitoring to ensure that living cells remain viable throughout the printing process
+    **Live Demo** https://stackblitz.com/edit/stackblitz-starters-zgrxgao3?file=index.html <img width="828" height="431" alt="Bio-synthetic" src="https://github.com/user-attachments/assets/2c5e2823-9fc5-48bf-bad7-73f0ea7212a6" />
+  
+  
+  
+  
+     
+  
+
+
+
      
     
 
