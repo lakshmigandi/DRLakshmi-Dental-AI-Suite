@@ -1,5 +1,5 @@
 **Portfolio of Dr. Lakshmi G., MDS — Oral & Maxiilofacial Surgeon Self-taught AI/ML enthusiast**
-#🚀 DR.Lakshmi-Dental-AI-Suite
+🚀 DR.Lakshmi-Dental-AI-Suite
 ***100 Live projects in AI,Robotcs,healthcare & dentistry***
 Email:lakshmigandi6817@gmail.com
 ***"Bridging Precision Surgery with Machine Intelligence" A comprehensive repository featuring 100 Live Projects in AI, Robotics, Clinical Healthcare, and Specialized Dentistry.***
