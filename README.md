@@ -84,7 +84,7 @@ Click the links below to explore the interactive simulations.
    
 20. **Dental-Prescription-PostOp-Generator**
     **Live demo**https://stackblitz.com/edit/vitejs-vite-kui3ntnk?file=src%2FApp.tsx
-     Features:A professional clinical documentation tool using React & TypeScript. Automates post-operative care and prescription protocols for dental procedures.
+     Features: A professional clinical documentation tool using React & TypeScript. Automates post-operative care and prescription protocols for dental procedures.
     <img width="1039" height="583" alt="Dental prescription gen1" src="https://github.com/user-attachments/assets/e47ff6a8-2789-4cae-b949-1d0bcd0f4d9b" />
     <img width="931" height="637" alt="Dental prescription gen2" src="https://github.com/user-attachments/assets/e68eb701-a2d9-4177-9748-a99d67a5edd3" />
     
