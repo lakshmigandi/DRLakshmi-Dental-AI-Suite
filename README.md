@@ -24,8 +24,7 @@ Click the links below to explore the interactive simulations.
    Individual tooth detection — 97.12% accuracy (notebook + screenshots in folder)
    **Built with Bolt.new — Designed by Dr. Lakshmi G., MDS**
    ![97.12% Accuracy](<img width="1366" height="569" alt="capstone project saccuracy screen shot7 " src="https://github.com/user-attachments/assets/5bfb3d4e-a123-4d94-af6d-d3bc260a8246" />
-   ![Caries-detector-capstone.ipynb][Final_Capstone_ai.ipynb.ipynb](https://github.com/user-attachments/files/24954116/Final_Capstone_ai.ipynb.ipynb)
-
+   ![Caries-detector-capstone.ipynb][Final_Copy_of_Dental_AI_Capstone_XGBoost.ipynb](https://github.com/user-attachments/files/24954225/Final_Copy_of_Dental_AI_Capstone_XGBoost.ipynb)
 
 
        
