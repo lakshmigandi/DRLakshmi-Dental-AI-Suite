@@ -359,6 +359,12 @@ Click the links below to explore the interactive simulations.
 100.  **Holo-Health – The Predictive Digital Twin**The ultimate Predictive Healthcare Engine integrating multi-omic data to create a 3D Digital Twin for 10-year disease forecasting and personalized treatment simulation.
       **Live Demo**https://stackblitz.com/edit/stackblitz-starters-vylvah1x?file=index.html <img width="1076" height="576" alt="Holo-health AI" src="https://github.com/user-attachments/assets/dd41d13d-2b40-4829-ae4f-e5b2b0264326" />
 
+101.  **Physiotherapy Robotic Guide** The Robotic 3D Physiotherapy Guide is a real-time digital twin interface designed to assist patients in performing rehabilitation exercises with clinical precision.
+      **Live Demo** https://3d-physiotherapy-rob-feff.bolt.host <img width="1344" height="598" alt="3D Physiotherapy robot1" src="https://github.com/user-attachments/assets/7eeffd3e-6b4d-4c3e-ac64-ff789040ed2f" />
+        <img width="1356" height="626" alt="3D Physiotherapy robot2" src="https://github.com/user-attachments/assets/8aa00c19-01cc-472d-9542-253fe3e5b38d" />
+
+   
+
 
        
                                                                                                >
