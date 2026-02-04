@@ -367,7 +367,15 @@ Click the links below to explore the interactive simulations.
       **Live Demo**[https://3d-robotic-knee-reha-6du4.bolt.host] <img width="1364" height="608" alt="Knee robotic1" src="https://github.com/user-attachments/assets/b9821491-2acf-4b1c-87bf-46c2a40a920b" />
       <img width="1362" height="611" alt="Knee robotic2" src="https://github.com/user-attachments/assets/253e732c-6ad5-4a64-9b3c-1ad7f695ef11" />
 
-103.  **
+103.  **Interactive 3D physiotherapy tool for shoulder rehab exercises**Real-time 3D simulation of a robotic arm assisting shoulder flexion/abduction/rotation. Features include angle slider (0–180°), real-time angle display, progress bar, 30-second exercise timer (3 sets),
+     **Live Demo**[https://3d-robotic-shoulder-fqd1.bolt.host] <img width="1355" height="617" alt="Shoulder stimulater1" src="https://github.com/user-attachments/assets/8aa2cc78-9873-4734-ae41-ce42a80b0dfe" />
+     <img width="1362" height="617" alt="Shoulder stimulater2" src="https://github.com/user-attachments/assets/26cb0710-dad4-4c6e-ab3a-0b57102dc710" />
+
+104.  **
+
+     
+
+  
       
 
  
