@@ -383,7 +383,14 @@ Click the links below to explore the interactive simulations.
       **Live Demo**[https://3d-robotic-wrist-reh-m3jn.bolt.host] <img width="1349" height="613" alt="wrist rehab1" src="https://github.com/user-attachments/assets/026b8811-38a4-4909-a745-16b25fbb8689" />
        <img width="1355" height="611" alt="wrist rehab2" src="https://github.com/user-attachments/assets/9ea3da49-8687-4316-a1fe-925f66057dc7" />
 
-107.   **       
+107.   **Interactive 3D Ankle Rehabilitation Simulator**Real-time ankle 3D robotic-assisted ankle therapy system
+       **Live Demo**[https://3d-ankle-rehab-robot-0281.bolt.host] <img width="1366" height="620" alt="Ankle 3d stimulater1" src="https://github.com/user-attachments/assets/ebf7f500-4852-4f0e-8e29-84c2b1b668a2" />
+       <img width="1366" height="611" alt="Ankle 3d stimulater2" src="https://github.com/user-attachments/assets/6dc5689f-0e53-48d9-9000-47ecd4a378dc" />
+
+108.   **
+       
+
+      
 
      
 
