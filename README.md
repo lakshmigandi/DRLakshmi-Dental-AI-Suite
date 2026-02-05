@@ -375,7 +375,13 @@ Click the links below to explore the interactive simulations.
       **Live Demo**[https://3d-elbow-rehab-robot-z7u2.bolt.host] <img width="1364" height="613" alt="Elbow stimulator1" src="https://github.com/user-attachments/assets/e1f0b122-8a81-4cd4-b53c-8e29e4293ffb" />
       <img width="1366" height="624" alt="Elbow stimulator2" src="https://github.com/user-attachments/assets/7c3dad67-a541-48d7-b8ee-87c747b88bbd" />
 
-105.  **      
+105.  **Interactive 3D physiotherapy tool for hip rehab excercises** Real-time Hip Rehabilitation Robotic Arm Simulator flexion/abduction.
+      **Live Demo**[https://3d-hip-rehab-robotic-xnj6.bolt.host/] <img width="1353" height="610" alt="Hip rehab1" src="https://github.com/user-attachments/assets/9f7f5ec5-8085-401e-bcc3-9f4dbb41ee8c" />
+      <img width="1358" height="617" alt="Hip rehab2" src="https://github.com/user-attachments/assets/4d68f977-3888-46f3-a0f5-5ed7bbe4663e" />
+
+106.  **      
+
+      
 
 
 
