@@ -379,7 +379,13 @@ Click the links below to explore the interactive simulations.
       **Live Demo**[https://3d-hip-rehab-robotic-xnj6.bolt.host/] <img width="1353" height="610" alt="Hip rehab1" src="https://github.com/user-attachments/assets/9f7f5ec5-8085-401e-bcc3-9f4dbb41ee8c" />
       <img width="1358" height="617" alt="Hip rehab2" src="https://github.com/user-attachments/assets/4d68f977-3888-46f3-a0f5-5ed7bbe4663e" />
 
-106.  **      
+106.  **Interactive 3D wrist rehabilitation robotic arm simulator**Real-time Wrist Rehabilitation Robotic Arm Stimulator flexion/extension.
+      **Live Demo**[https://3d-robotic-wrist-reh-m3jn.bolt.host] <img width="1349" height="613" alt="wrist rehab1" src="https://github.com/user-attachments/assets/026b8811-38a4-4909-a745-16b25fbb8689" />
+       <img width="1355" height="611" alt="wrist rehab2" src="https://github.com/user-attachments/assets/9ea3da49-8687-4316-a1fe-925f66057dc7" />
+
+107.   **       
+
+     
 
       
 
