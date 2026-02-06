@@ -387,7 +387,13 @@ Click the links below to explore the interactive simulations.
        **Live Demo**[https://3d-ankle-rehab-robot-0281.bolt.host] <img width="1366" height="620" alt="Ankle 3d stimulater1" src="https://github.com/user-attachments/assets/ebf7f500-4852-4f0e-8e29-84c2b1b668a2" />
        <img width="1366" height="611" alt="Ankle 3d stimulater2" src="https://github.com/user-attachments/assets/6dc5689f-0e53-48d9-9000-47ecd4a378dc" />
 
-108.   **
+108.   **Prosthetic Hand Rehabilitation Simulator**Interactive 3D Rehabilation Stimulator,to find individual finger control.
+       **Live Demo**[https://3d-prosthetic-hand-r-f5hw.bolt.host] <img width="1353" height="608" alt="Prosthetic hand1" src="https://github.com/user-attachments/assets/79fba9aa-625e-414f-879a-5770a7764d12" />
+       <img width="1342" height="622" alt="Prosthetic hand2" src="https://github.com/user-attachments/assets/947ae3f2-3f28-40e2-accd-b7dfe8f90fca" />
+
+109.   **        
+
+
        
 
       
