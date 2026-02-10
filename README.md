@@ -387,11 +387,30 @@ Click the links below to explore the interactive simulations.
        **Live Demo**[https://3d-ankle-rehab-robot-0281.bolt.host] <img width="1366" height="620" alt="Ankle 3d stimulater1" src="https://github.com/user-attachments/assets/ebf7f500-4852-4f0e-8e29-84c2b1b668a2" />
        <img width="1366" height="611" alt="Ankle 3d stimulater2" src="https://github.com/user-attachments/assets/6dc5689f-0e53-48d9-9000-47ecd4a378dc" />
 
-108.   **Prosthetic Hand Rehabilitation Simulator**Interactive 3D Rehabilation Stimulator,to find individual finger control.
+108.   **Prosthetic Hand Rehabilitation Simulator**Interactive 3D Rehabilitation Stimulator,to find individual finger control.
        **Live Demo**[https://3d-prosthetic-hand-r-f5hw.bolt.host] <img width="1353" height="608" alt="Prosthetic hand1" src="https://github.com/user-attachments/assets/79fba9aa-625e-414f-879a-5770a7764d12" />
        <img width="1342" height="622" alt="Prosthetic hand2" src="https://github.com/user-attachments/assets/947ae3f2-3f28-40e2-accd-b7dfe8f90fca" />
 
-109.   **        
+109.   **Patient Lifting / Assist Robot Simulator**Interactive 3D Robotic Patient Lifting / Assist Robot (hospital bed + patient + robot helping sit/stand)
+       **Live Demo**[https://stackblitz.com/edit/vitejs-vite-lpwuqxlk?file=src%2FApp.tsx] <img width="1309" height="620" alt="Patient lifting 3d " src="https://github.com/user-attachments/assets/c518dd39-6656-4be8-a846-62f6813b100d" />
+
+110.  **Surgical-Gripper-Biomechanical-Simulation App**A high-fidelity 3D simulation of robotic surgical instruments and patient-assist devices built with React, Three.js, and React-Three-Fiber.
+      **Live Demo**[https://stackblitz.com/edit/vitejs-vite-lry9wz3e?file=package.json] <img width="1277" height="612" alt="Surgical robotics pinchforce " src="https://github.com/user-attachments/assets/acf71161-753b-40d4-8121-32648108c90a" />
+
+111.  **Surgical-robotics-control-center App**A high-performance React-Three-Fiber dashboard featuring a split-view simulation of a Patient Lift System and a Precision Surgical Gripper.
+      **Live Demo**[https://stackblitz.com/edit/vitejs-vite-yczthy4d?file=package.json] <img width="1244" height="590" alt="3D system stimulator" src="https://github.com/user-attachments/assets/5a4ee08b-c824-437a-a80f-ca1a24c675d5" />
+
+112.  **Surgical-Robotics-3D-Workspace App**A high-fidelity React-Three-Fiber dashboard featuring three synchronized 3D simulations: a Patient Lift System, a Precision Surgical Gripper, and a High-Speed Surgical Drill.
+      **Live Demo**[https://stackblitz.com/edit/vitejs-vite-ynsddccv?file=package.json]<img width="1353" height="588" alt="Multisystem surgical stimulator" src="https://github.com/user-attachments/assets/f8eda9e9-fd81-40c5-b1c5-8c506005a6fd" />
+
+113.  **
+      
+ 
+      
+    
+
+       
+      
 
 
        
