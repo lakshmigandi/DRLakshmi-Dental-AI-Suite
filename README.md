@@ -403,13 +403,43 @@ Click the links below to explore the interactive simulations.
 112.  **Surgical-Robotics-3D-Workspace App**A high-fidelity React-Three-Fiber dashboard featuring three synchronized 3D simulations: a Patient Lift System, a Precision Surgical Gripper, and a High-Speed Surgical Drill.
       **Live Demo**[https://stackblitz.com/edit/vitejs-vite-ynsddccv?file=package.json]<img width="1353" height="588" alt="Multisystem surgical stimulator" src="https://github.com/user-attachments/assets/f8eda9e9-fd81-40c5-b1c5-8c506005a6fd" />
 
-113.  **
+113.  **BIOMECHANICAL PROSTHETIC INTERFACE App** A high-visibility simulation of a robotic hand with staggered digit flexion and wrist axis control.
+      **Live Demo**[https://stackblitz.com/edit/stackblitz-starters-lf5dju9w?file=index.html]<img width="1366" height="606" alt="Biomechanical interface" src="https://github.com/user-attachments/assets/974050ee-9449-43d4-ba2b-29c3f7246f44" />
+
+114.  **ROBOTIC ENDOSCOPE NAVIGATION App**A procedural "Snake-Bot" simulation for minimally invasive surgical navigation.Segmented kinematics, procedural sine-wave movement, and orientation-aware tracking (Red-Tip focus).
+      **Live Demo**[https://stackblitz.com/edit/stackblitz-starters-ck2ftdci?file=index.html] <img width="1360" height="609" alt="Robotic Endoscope " src="https://github.com/user-attachments/assets/f9373f9c-743b-43ea-8808-c495eba6b54d" />
+
+115.  **PRECISION LASER SCALPEL Interface App**Focus on  Optical Microsurgery & Cauterization.Real-time power intensity modulation and focal positioning on a reactive tissue plane.
+      **Live Demo**[https://stackblitz.com/edit/stackblitz-starters-k8ldkmji?file=index.html] <img width="1362" height="610" alt="Precision laser scalpel" src="https://github.com/user-attachments/assets/338cb3a8-7390-4c03-845f-d992e4366c60" />
+
+116.  **Orthopedic Implant Digital Locker App**Digital twin inventory for high-value titanium and ceramic surgical hardware.
+      **Live Demo**[https://stackblitz.com/edit/stackblitz-starters-u7cddnmt?file=index.html] <img width="1366" height="608" alt="Orthopaedic implant inventor" src="https://github.com/user-attachments/assets/ddd36aa1-a60b-4b6c-8550-27e924f970db" />
+
+117.  **CRYO-STORAGE BLOOD INVENTORY App**To provide a high-contrast, real-time visual dashboard for monitoring blood product inventory levels across multiple blood groups ($A\pm, B\pm, AB\pm, O\pm$).
+      **Live Demo**[https://stackblitz.com/edit/stackblitz-starters-chg8vjgr?file=index.html] <img width="1366" height="609" alt="Cryostorage blood bank" src="https://github.com/user-attachments/assets/8fd5180c-9d41-4918-aacd-8254f857b890" />
+
+118.  **Smart Surgical Kit Tracker App**Real-time RFID-linked monitoring of surgical instrument trays to prevent "Never Events" (missing tools) and ensure sterilization protocol compliance.
+      **Live Demo**[https://stackblitz.com/edit/stackblitz-starters-cw13sfkj?file=index.html] <img width="1366" height="609" alt="Surgical kit tracker" src="https://github.com/user-attachments/assets/448bb1c4-c6a4-4e3a-ba01-c3081540aa9d" />
+
+119.  **OR Laminar Flow Monitor App**A procedural particle simulation of ISO 5 air quality standards and sterile air curtains for infection control.
+      **Live Demo**[https://stackblitz.com/edit/stackblitz-starters-miz4j26q?file=index.html] <img width="1366" height="606" alt="Air quality monitor" src="https://github.com/user-attachments/assets/a5c0a556-76de-4289-a116-2631e35cb4a6" />
+
+120.  **SURGICAL AI MASTER HUB App**Designed as a persistent monitor for the Operating Room, the Hub provides a unified view of system health, neural synchronization, and biomedical logic status
+      **Live Demo**[https://stackblitz.com/edit/stackblitz-starters-xftiannk?file=index.html] <img width="1366" height="613" alt="Surgical AI master hub" src="https://github.com/user-attachments/assets/56c39b4d-41e6-4e28-963a-5ec63ffb9681" />
+
+121.  **
+      
+
+      
+
+      
+
+      
+      
+     
+
       
  
-      
-    
-
-       
       
 
 
