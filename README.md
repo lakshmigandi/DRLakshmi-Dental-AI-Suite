@@ -427,7 +427,49 @@ Click the links below to explore the interactive simulations.
 120.  **SURGICAL AI MASTER HUB App**Designed as a persistent monitor for the Operating Room, the Hub provides a unified view of system health, neural synchronization, and biomedical logic status
       **Live Demo**[https://stackblitz.com/edit/stackblitz-starters-xftiannk?file=index.html] <img width="1366" height="613" alt="Surgical AI master hub" src="https://github.com/user-attachments/assets/56c39b4d-41e6-4e28-963a-5ec63ffb9681" />
 
-121.  **
+121.  **Neural-Link BCI Stimulator App**Precision Neuro-Robotic Control Interface.It is designed to interpret neural signals to control surgical instruments, effectively bypassing physical hand tremors—requirement for micro-dental surgeries.
+      **Live Demo**[https://stackblitz.com/edit/stackblitz-starters-dyqxn9sx?file=index.html] <img width="1136" height="608" alt="Neural biostimulater" src="https://github.com/user-attachments/assets/d8b96b7e-e6a8-4759-bbf1-085c6a3eb306" />
+
+122.  **AI-Powered Exoskeleton Gait Synchronizer App**It "syncs" the robotic legs to the patient's nervous system, allowing for natural walking patterns in spinal cord injury recovery.
+      **Live Demo**[https://stackblitz.com/edit/stackblitz-starters-ddnbjvaj?file=index.html] <img width="1355" height="499" alt="Gait synchronizer" src="https://github.com/user-attachments/assets/616ad61d-8ab5-42b7-a6f8-39fb09754a66" />
+
+123.  **Cardio-Robotic Vascular Navigator App**This app simulates a robotic catheter being guided through the femoral artery to the heart. The AI uses Haptic Feedback sensors to ensure the tip never touches the arterial walls,preventing internal trauma.
+      **Live Demo**[https://stackblitz.com/edit/stackblitz-starters-vzb2fy3q?file=index.html] <img width="1109" height="471" alt="Cardio-robotic" src="https://github.com/user-attachments/assets/c86fb9e9-f977-4d0a-842d-cb103dffc915" />
+
+124.  **Ortho-Robotic Bone Density Sensor App**This robotic drill monitors the Torque and Resistance levels. The moment the density drops (indicating the drill has exited the hard bone and reached soft tissue), the AI triggers an "Emergency Brake".
+      **Live Demo**[https://stackblitz.com/edit/stackblitz-starters-pvqjmi2j?file=index.html] <img width="1004" height="515" alt="Ortho robotic1" src="https://github.com/user-attachments/assets/a68cc863-2de0-430e-8590-d0f86ba8b250" />
+      <img width="1020" height="501" alt="Ortho robotic2" src="https://github.com/user-attachments/assets/74df69c5-e169-431b-8930-b4a90a1afb64" />
+
+125.  ** Robotic Tele-Ultrasound App**This app allows a doctor to move a robotic ultrasound probe remotely.The AI "stabilizes" the image, meaning even if the remote connection has a slight lag, the robotic arm maintains the correct pressure.
+      **Live Demo**[https://stackblitz.com/edit/stackblitz-starters-2jmymvpb?file=index.html] <img width="1086" height="551" alt="Robotic tele-ultrasound" src="https://github.com/user-attachments/assets/45198ecb-2e6f-4e7b-9fcf-60cd60f528c0" />
+
+126.  **Autonomous AI Suture Robotic System App**This robotic needle uses computer vision to detect the edges of a wound. It then calculates the optimal entry and exit points for the suture to ensure minimal scarring and faster healing.
+      **Live Demo**[https://stackblitz.com/edit/stackblitz-starters-uwsoka6r?file=index.html] <img width="996" height="531" alt="Autonomous suture robot" src="https://github.com/user-attachments/assets/ab58e160-c5d3-4300-b455-cdec52ab9131" />
+
+127.  **AI-Guided Robotic Laser Ablation App** This system uses high-speed computer vision to distinguish between a lesion (tumor/decay) and healthy tissue. The robotic laser only pulses when it is perfectly aligned with the target.
+      **Live Demo**[https://stackblitz.com/edit/stackblitz-starters-jlotmdz8?file=index.html] <img width="1040" height="557" alt="AI laser ablation" src="https://github.com/user-attachments/assets/a2ddfbcd-5e49-466e-a8cb-79d66b48721f" />
+
+128.  **Robotic Micro-Surgical Eye Stabilizer App**This app simulates a robotic system used for retinal surgery. It uses "Active Counter-Motion" to cancel out the patient's breathing and tiny eye movements, allowing the surgeon to operate.
+      **Live Demo**[https://stackblitz.com/edit/stackblitz-starters-pkdnk5vb?file=index.html ] <img width="1110" height="557" alt="Retinal robotic stabilizer" src="https://github.com/user-attachments/assets/e484c05f-7a7f-4e3a-9612-b41a8b8cdaa6" />
+
+129.  **AI Robotic Wound Debridement System App**This app uses Hyperspectral Imaging logic. The AI scans a wound, identifies "Non-Viable" (dead) tissue in a different color, and uses a micro-robotic tool to clear it while leaving healthy tissue.
+      **Live Demo**[https://stackblitz.com/edit/stackblitz-starters-qplcutku?file=index.html] <img width="979" height="570" alt="Robotic wound debridement app" src="https://github.com/user-attachments/assets/18c2c57f-51d1-432c-8e09-378debc7368b" />
+
+130.  **Autonomous Bio-Robotic Cellular Scanner App**This app simulates a high-speed robotic scanner that monitors "Organ-on-a-Chip" plates. It uses AI to detect cellular health in real-time, allows researchers to see a drug is working without human.
+      **Live Demo**[ https://stackblitz.com/edit/stackblitz-starters-rclysiki?file=index.html]<img width="1121" height="579" alt="Bio-robotic Scanner" src="https://github.com/user-attachments/assets/26c7f4a3-5a4e-4e6d-bf9c-539704f1d3ef" />
+     
+
+     
+    
+      
+    
+
+
+      
+     
+
+      
+
       
 
       
