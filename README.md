@@ -239,7 +239,7 @@ Click the links below to explore the interactive simulations.
 62.  **Robotic Suture Path Optimizer**This system acts by automating the 'suture throw' angle, This AI reduces post-operative scarring and ensures consistent surgical outcomes, regardless of surgeon fatigue.
      **Live Demo** https://stackblitz.com/edit/stackblitz-starters-hj4h9wjd?file=index.html <img width="471" height="464" alt="Suture path optimizer" src="https://github.com/user-attachments/assets/a9a5f66b-4d5c-48b7-acdd-e47e161c2090"       />
 
-63.   **CNN Edge-Guard Diagnostic**Implemented a Zero-Padding (p=1) algorithm based on CNN principles to preserve spatial dimensions in medical radiographs, ensuring critical diagnostic data at the image borders is not lost during               feature extraction.
+63.   **CNN Edge-Guard Diagnostics**Implemented a Zero-Padding (p=1) algorithm based on CNN principles to preserve spatial dimensions in medical radiographs, ensuring critical diagnostic data at the image borders is not lost during               feature extraction.
       **Live Demo**https://stackblitz.com/edit/stackblitz-starters-swdhdgvs?file=index.html <img width="483" height="468" alt="CNN-edge guard" src="https://github.com/user-attachments/assets/4c1d5a0c-af7c-4e29-b80f-48d595741f9d" />
 
 64.  **Integrated Clinical Hub**This Integrated Clinical Hub serves as the central intelligence layer for a multi-modal diagnostic ecosystem.
