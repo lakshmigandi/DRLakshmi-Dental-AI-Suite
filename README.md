@@ -457,7 +457,15 @@ Click the links below to explore the interactive simulations.
 
 130.  **Autonomous Bio-Robotic Cellular Scanner App**This app simulates a high-speed robotic scanner that monitors "Organ-on-a-Chip" plates. It uses AI to detect cellular health in real-time, allows researchers to see a drug is working without human.
       **Live Demo**[ https://stackblitz.com/edit/stackblitz-starters-rclysiki?file=index.html]<img width="1121" height="579" alt="Bio-robotic Scanner" src="https://github.com/user-attachments/assets/26c7f4a3-5a4e-4e6d-bf9c-539704f1d3ef" />
+
+131.  **3D Robotic TMJ/Jaw Opening Simulator** This app is for Jaw mobility restoration in TMJ disorders.AI approach: Mouth opening + lateral deviation simulation with feedback  
+   Outcome: Supports non-surgical TMJ rehabilitation.
+
+     **Live Demo**[
      
+132. **3D Robotic Neck Rehabilitation Simulator**This app is for Neck flexion/extension & lateral bending recovery. AI approach: Interactive head/neck model with real-time guidance. Outcome: Improves range and reduces stiffness.
+     **Live Demo**[ https://3d-neck-rehab-roboti-88ah.bolt.host]<img width="1351" height="653" alt="Neck-rehab1" src="https://github.com/user-attachments/assets/7a4eb91f-7ca5-4dbd-af2a-6e88d9568b18" />
+     <img width="1366" height="646" alt="Neck-rehab2" src="https://github.com/user-attachments/assets/ccceed2f-6671-4c56-b0d2-e1747a97050d" />
 
      
     
