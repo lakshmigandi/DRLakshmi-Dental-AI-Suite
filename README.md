@@ -461,7 +461,9 @@ Click the links below to explore the interactive simulations.
 131.  **3D Robotic TMJ/Jaw Opening Simulator** This app is for Jaw mobility restoration in TMJ disorders.AI approach: Mouth opening + lateral deviation simulation with feedback  
    Outcome: Supports non-surgical TMJ rehabilitation.
 
-     **Live Demo**[
+     **Live Demo**[https://3d-robotic-jaw-rehab-lfv7.bolt.host] <img width="1362" height="564" alt="TMJ rehabilitation1" src="https://github.com/user-attachments/assets/5210e642-84e3-46dd-b117-043b161eeeeb" /><img width="1366" height="608" alt="TMJ rehabilitation2" src="https://github.com/user-attachments/assets/e94e975b-5c5e-4cef-a8b2-b35144444c48" />
+
+
      
 132. **3D Robotic Neck Rehabilitation Simulator**This app is for Neck flexion/extension & lateral bending recovery. AI approach: Interactive head/neck model with real-time guidance. Outcome: Improves range and reduces stiffness.
      **Live Demo**[ https://3d-neck-rehab-roboti-88ah.bolt.host]<img width="1351" height="653" alt="Neck-rehab1" src="https://github.com/user-attachments/assets/7a4eb91f-7ca5-4dbd-af2a-6e88d9568b18" />
