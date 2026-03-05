@@ -361,17 +361,17 @@ Click the links below to explore the interactive simulations.
 
 101.  **Physiotherapy Robotic Guide** The Robotic 3D Physiotherapy Guide is a real-time digital twin interface designed to assist patients in performing rehabilitation exercises with clinical precision.
      
-      **Live Demo**[https:/ysiotherapy-rob-feff.bolt.host <img width="1344" height="598" alt="3D Physiotherapy robot1" src="https://github.com/user-attachments/assets/7eeffd3e-6b4d-4c3e-ac64-ff789040ed2f" />
+      **Live Demo**[https:/ysiotherapy-rob-feff.bolt.host] <img width="1344" height="598" alt="3D Physiotherapy robot1" src="https://github.com/user-attachments/assets/7eeffd3e-6b4d-4c3e-ac64-ff789040ed2f" />
         <img width="1356" height="626" alt="3D Physiotherapy robot2" src="https://github.com/user-attachments/assets/8aa00c19-01cc-472d-9542-253fe3e5b38d" />
 
 102.  **3D Robotic Knee Rehabilitation Simulator***Interactive 3D physiotherapy tool for knee rehab exercises.A real-time 3D simulation of a robotic arm assisting knee flexion/extension (0–120°),Features: include angle slider, real-time display,30- second exercise timer (3 sets), automatic feedback (“Excellent range!” >90°), and visual color feedback on the robotic arm (green = correct, red = incorrect,  **Live Demo**[https://3d-robotic-knee-reha-6du4.bolt.host]  <img width="1364" height="608" alt="Knee robotic1" src="https://github.com/user-attachments/assets/b9821491-2acf-4b1c-87bf-46c2a40a920b" />
       <img width="1362" height="611" alt="Knee robotic2" src="https://github.com/user-attachments/assets/253e732c-6ad5-4a64-9b3c-1ad7f695ef11" />
 
-103.  **Interactive 3D physiotherapy tool for shoulder rehab exercises**Real-time 3D simulation of a robotic arm assisting shoulder flexion/abduction/rotation. Features include angle slider (0–180°), real-time angle display, progress bar, 30-second exercise timer (3 sets),
+103.  **Interactive 3D physiotherapy tool for shoulder rehab exercises**Real-time 3D simulation of a robotic arm assisting shoulder flexion/abduction/rotation. Features include angle slider (0–180°), real-time angle display, progress bar, 30-second exercise timer (3 sets),Interactive 3D simulation with real-time guidance, progress tracking, and visual feedback.Slider controls shoulder flexion/abduction (0°–180°), angle updates live,“Start Exercise” begins 30-second timed sets (3 total with counter).
      **Live Demo**[https://3d-robotic-shoulder-fqd1.bolt.host] <img width="1355" height="617" alt="Shoulder stimulater1" src="https://github.com/user-attachments/assets/8aa2cc78-9873-4734-ae41-ce42a80b0dfe" />
      <img width="1362" height="617" alt="Shoulder stimulater2" src="https://github.com/user-attachments/assets/26cb0710-dad4-4c6e-ab3a-0b57102dc710" />
 
-104.  **Interactive 3D physiotherapy tool for elbow rehab exercises**Real-time 3D simulation of a robotic arm assisting elbow flexion/extension (0–150°)Demonstrates how AI + robotics can support elbow physiotherapy, improve patient compliance
+104.  **Interactive 3D physiotherapy tool for elbow rehab exercises**Real-time 3D simulation of a robotic arm assisting elbow flexion/extension (0–150°)Demonstrates how AI + robotics can support elbow physiotherapy, improve patient compliance.Slider-based 3D model with timer, progress bar, and color-coded feedback.Robotic arm turns green on correct movement, red on errors
       **Live Demo**[https://3d-elbow-rehab-robot-z7u2.bolt.host] <img width="1364" height="613" alt="Elbow stimulator1" src="https://github.com/user-attachments/assets/e1f0b122-8a81-4cd4-b53c-8e29e4293ffb" />
       <img width="1366" height="624" alt="Elbow stimulator2" src="https://github.com/user-attachments/assets/7c3dad67-a541-48d7-b8ee-87c747b88bbd" />
 
@@ -379,11 +379,11 @@ Click the links below to explore the interactive simulations.
       **Live Demo**[https://3d-hip-rehab-robotic-xnj6.bolt.host/] <img width="1353" height="610" alt="Hip rehab1" src="https://github.com/user-attachments/assets/9f7f5ec5-8085-401e-bcc3-9f4dbb41ee8c" />
       <img width="1358" height="617" alt="Hip rehab2" src="https://github.com/user-attachments/assets/4d68f977-3888-46f3-a0f5-5ed7bbe4663e" />
 
-106.  **Interactive 3D wrist rehabilitation robotic arm simulator**Real-time Wrist Rehabilitation Robotic Arm Stimulator flexion/extension.
+106.  **Interactive 3D wrist rehabilitation robotic arm simulator**Real-time Wrist Rehabilitation Robotic Arm Stimulator flexion/extension + deviation control and visual alerts.Slider controls wrist flexion/extension (0°–70°) and deviation (-30° to 30°), angle updates live.
       **Live Demo**[https://3d-robotic-wrist-reh-m3jn.bolt.host] <img width="1349" height="613" alt="wrist rehab1" src="https://github.com/user-attachments/assets/026b8811-38a4-4909-a745-16b25fbb8689" />
        <img width="1355" height="611" alt="wrist rehab2" src="https://github.com/user-attachments/assets/9ea3da49-8687-4316-a1fe-925f66057dc7" />
 
-107.   **Interactive 3D Ankle Rehabilitation Simulator**Real-time ankle 3D robotic-assisted ankle therapy system
+107.   **Interactive 3D Ankle Rehabilitation Simulator**Real-time ankle 3D robotic-assisted ankle therapy system.Clinical challenge: Ankle dorsiflexion/plantarflexion recovery post-injury/surgery.Robotic arm turns green on correct movement, red on errors
        **Live Demo**[https://3d-ankle-rehab-robot-0281.bolt.host] <img width="1366" height="620" alt="Ankle 3d stimulater1" src="https://github.com/user-attachments/assets/ebf7f500-4852-4f0e-8e29-84c2b1b668a2" />
        <img width="1366" height="611" alt="Ankle 3d stimulater2" src="https://github.com/user-attachments/assets/6dc5689f-0e53-48d9-9000-47ecd4a378dc" />
 
