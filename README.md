@@ -375,11 +375,11 @@ Click the links below to explore the interactive simulations.
       **Live Demo**[https://3d-elbow-rehab-robot-z7u2.bolt.host] <img width="1364" height="613" alt="Elbow stimulator1" src="https://github.com/user-attachments/assets/e1f0b122-8a81-4cd4-b53c-8e29e4293ffb" />
       <img width="1366" height="624" alt="Elbow stimulator2" src="https://github.com/user-attachments/assets/7c3dad67-a541-48d7-b8ee-87c747b88bbd" />
 
-105.  **Interactive 3D physiotherapy tool for hip rehab excercises** Real-time Hip Rehabilitation Robotic Arm Simulator flexion/abduction.
-      **Live Demo**[https://3d-hip-rehab-robotic-xnj6.bolt.host/] <img width="1353" height="610" alt="Hip rehab1" src="https://github.com/user-attachments/assets/9f7f5ec5-8085-401e-bcc3-9f4dbb41ee8c" />
+105.  **Interactive 3D physiotherapy tool for hip rehab excercises** Real-time Hip Rehabilitation Robotic Arm Simulator flexion/abduction.Clinical challenge: Hip flexion/extension & abduction/adduction recovery post-surgery/injury.AI approach: Interactive 3D simulation with slider control, timed sets, visual guidance, and color-coded alerts.Robotic arm turns green on correct movement, red on errors.
+       **Live Demo**[https://3d-hip-rehab-robotic-xnj6.bolt.host/] <img width="1353" height="610" alt="Hip rehab1" src="https://github.com/user-attachments/assets/9f7f5ec5-8085-401e-bcc3-9f4dbb41ee8c" />
       <img width="1358" height="617" alt="Hip rehab2" src="https://github.com/user-attachments/assets/4d68f977-3888-46f3-a0f5-5ed7bbe4663e" />
 
-106.  **Interactive 3D wrist rehabilitation robotic arm simulator**Real-time Wrist Rehabilitation Robotic Arm Stimulator flexion/extension + deviation control and visual alerts.Slider controls wrist flexion/extension (0°–70°) and deviation (-30° to 30°), angle updates live.
+106.  **Interactive 3D wrist rehabilitation robotic arm simulator**AI appraoch : Real-time Wrist Rehabilitation Robotic Arm Stimulator flexion/extension + deviation control and visual alerts.Slider controls wrist flexion/extension (0°–70°) and deviation (-30° to 30°), angle updates live.Clinical challenge: Wrist mobility restoration after injury or surgery.Robotic arm turns green on correct movement, red on errors
       **Live Demo**[https://3d-robotic-wrist-reh-m3jn.bolt.host] <img width="1349" height="613" alt="wrist rehab1" src="https://github.com/user-attachments/assets/026b8811-38a4-4909-a745-16b25fbb8689" />
        <img width="1355" height="611" alt="wrist rehab2" src="https://github.com/user-attachments/assets/9ea3da49-8687-4316-a1fe-925f66057dc7" />
 
@@ -387,11 +387,11 @@ Click the links below to explore the interactive simulations.
        **Live Demo**[https://3d-ankle-rehab-robot-0281.bolt.host] <img width="1366" height="620" alt="Ankle 3d stimulater1" src="https://github.com/user-attachments/assets/ebf7f500-4852-4f0e-8e29-84c2b1b668a2" />
        <img width="1366" height="611" alt="Ankle 3d stimulater2" src="https://github.com/user-attachments/assets/6dc5689f-0e53-48d9-9000-47ecd4a378dc" />
 
-108.   **Prosthetic Hand Rehabilitation Simulator**Interactive 3D Rehabilitation Stimulator,to find individual finger control.
-       **Live Demo**[https://3d-prosthetic-hand-r-f5hw.bolt.host] <img width="1353" height="608" alt="Prosthetic hand1" src="https://github.com/user-attachments/assets/79fba9aa-625e-414f-879a-5770a7764d12" />
+108.   **Prosthetic Hand Rehabilitation Simulator**Interactive 3D Rehabilitation Stimulator,to find individual finger control.Clinical challenge: Grip strength and finger mobility training for prosthetic users post-trauma/surgery AI approach: Interactive 3D simulation with stimulation intensity control, timer, progress bar, and feedback for safe rehab . Slider adjusts finger flexion (0°–90°) for grip stimulation, intensity updates live.Start Stimulation” runs 30-second sets (3 total with counter).
+         **Live Demo**[https://3d-prosthetic-hand-r-f5hw.bolt.host] <img width="1353" height="608" alt="Prosthetic hand1" src="https://github.com/user-attachments/assets/79fba9aa-625e-414f-879a-5770a7764d12" />
        <img width="1342" height="622" alt="Prosthetic hand2" src="https://github.com/user-attachments/assets/947ae3f2-3f28-40e2-accd-b7dfe8f90fca" />
 
-109.   **Patient Lifting / Assist Robot Simulator**Interactive 3D Robotic Patient Lifting / Assist Robot (hospital bed + patient + robot helping sit/stand)
+109.   **Patient Lifting / Assist Robot Simulator**AI appraoch:Interactive 3D Robotic Patient Lifting / Assist Robot (hospital bed + patient + robot helping sit/stand).Clinical challenge: Safe patient lifting/transfer in hospital settings to reduce caregiver injury.Slider adjusts lift angle (0°–90° for bed-to-chair transfer), angle updates live.“Start Exercise” runs 30-second timed sets (3 total with counter).Progress bar tracks safe range.
        **Live Demo**[https://stackblitz.com/edit/vitejs-vite-lpwuqxlk?file=src%2FApp.tsx] <img width="1309" height="620" alt="Patient lifting 3d " src="https://github.com/user-attachments/assets/c518dd39-6656-4be8-a846-62f6813b100d" />
 
 110.  **Surgical-Gripper-Biomechanical-Simulation App**A high-fidelity 3D simulation of robotic surgical instruments and patient-assist devices built with React, Three.js, and React-Three-Fiber.
